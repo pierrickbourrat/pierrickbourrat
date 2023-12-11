@@ -28,3 +28,33 @@ main:
 #  - name: CV
 #    url: uploads/resume.pdf
 #    weight: 70
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+main:
+  - name: Home
+    url: '#about'
+    weight: 10
+  - name: Research
+    url: '#research'
+    weight: 20
+  - name: Publications
+    url: '#publications'
+    weight: 30  
+  - name: CV
+    url: 'https://drive.google.com/file/d/12pgowLGTXs1q1YXO_XUeWI-ym1Fm3lnF/view?usp=sharing'
+    weight: 40
+  - name: Contact
+    url: '#contact'
+    weight: 50
+  - name: News
+    url: '/news'
+    weight: 60
+
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
+#  - name: CV
+#    url: uploads/resume.pdf
+#    weight: 70
