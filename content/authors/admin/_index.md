@@ -2,123 +2,92 @@
 # Display name
 title: Pierrick Bourrat
 
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
-
-# Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
-
-# Status emoji
-status:
-  icon: ☕️
-
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Senior Lecturer & DECRA Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Macquarie Univerisity
+    url: https://www.mq.edu.au/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include the various concepts deployed in evolutionary theory, causation, and the interplay between biological and cultural evolution.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Evolutionary theory
+  - Natural selection
+  - Levels of selection
+  - Individuality
+  - Causation
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: PhD in Philosophy
+      institution: The University of Sydney
+      year: 2015
+    - course: MA in Philosophy
+      institution: University Paris Diderot
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-
-# Skills
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
-  - name: Technical
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
+    - course: MSc in Evolutionary Biology & Ecology
+      institution: The University of Montpellier
+      year: 2006
+    - course: BSc in Biology
+      institution: University Blaise Pascal (Clermont-Ferrand)
+      year: 2006
 
 # Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
+# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
+  - icon: at
     icon_pack: fas
-    link: '/#contact'
+    link: mailto:p.bourrat@gmail.com
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=OdPTjCsAAAAJ&hl=en
+  - icon: philpapers
+    icon_pack: ai
+    link: https://philpeople.org/profiles/pierrick-bourrat-1
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Pierrick-Bourrat
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0002-4465-6015
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+    link: https://twitter.com/pierrickbourrat
+    
+
+# Link to a PDF of your resume/CV.
+# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
+# and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: uploads/resume.pdf
+
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: 'p.bourrat@gmail.com'
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
----
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+highlight_name: true
+
+---
+I am a Senior Lecturer and DECRA Fellow at Macquarie University, Sydney, Australia. I specialise in philosophy of biology. Together with Paul Griffiths, I head the [Theory and Method in Biosciences](https://tmbiosci.org/) group, a joint research group between the University of Sydney and Macquarie University.
+
+From 2017 to 2020 I was a Macquarie University Research Fellow. In 2015, I completed a PhD in philosophy of biology at the University of Sydney.
+
+My work focuses on core concepts of evolutionary theory, such as fitness and heritability, as well as evolutionary transitions in individuality and causation.
+
+My other interests include the interplay between biological and cultural evolution and the evolution of religious beliefs.
+
+You can find a list of my publications [here](/publication).
+
+{{< icon name="download" pack="fas" >}} Download my [CV](https://drive.google.com/file/d/12pgowLGTXs1q1YXO_XUeWI-ym1Fm3lnF/view?usp=sharing).
