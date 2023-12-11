@@ -60,9 +60,9 @@ social:
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0002-4465-6015
-  - icon: twitter
+  - icon: x
     icon_pack: fab
-    link: https://twitter.com/pierrickbourrat
+    link: https://x.com/pierrickbourrat
     
 
 # Link to a PDF of your resume/CV.
