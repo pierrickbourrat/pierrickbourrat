@@ -42,7 +42,7 @@ featured: false
 # 6 = Book Section;
 # 7 = Thesis;
 # 8 = Patent;
-publication_types: [Journal article]
+publication_types: [journal-article]
 
 # Publication name and optional abbreviated publication name.
 publication: "_Evolutionary psychology_ 9(2), pp. 193–199."
