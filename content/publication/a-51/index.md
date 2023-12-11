@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/ 
 # to have my name highlighted in publication use "admin" for author instead of Pierrick Bourrat
 
-title: “Moving Past Conventionalism About Multilevel Selection”
+title: "Moving Past Conventionalism About Multilevel Selection"
 authors:  
  - admin
 

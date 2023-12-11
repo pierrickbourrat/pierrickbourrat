@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/ 
 # to have my name highlighted in publication use "admin" for author instead of Pierrick Bourrat
 
-title: “Evolutionary Transitions in Individuality and Life Cycle Closure”
+title: "Evolutionary Transitions in Individuality and Life Cycle Closure"
 authors:  
  - Guilhem Doulcier
  - Peter Takacs
