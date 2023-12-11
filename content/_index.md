@@ -12,9 +12,9 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: portfolio
-    id: projects
+    id: research
     content:
-      title: Projects
+      title: Research
       filters:
         folders:
           - project
@@ -39,7 +39,7 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: true
   - block: collection
-    id: featured
+    id: publications
     content:
       title: Featured Publications
       filters:
@@ -57,7 +57,7 @@ sections:
       #text: |-
       #  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: p.bourrat@gmail.com
+     # email: p.bourrat@gmail.com
       #phone: 888 888 88 88
       #appointment_url: 'https://calendly.com'
       address:
@@ -68,17 +68,16 @@ sections:
         country: Australia
         country_code: AU
       #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'by appointment'
+      office_hours: 'By appointment'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
         latitude: '-33.77453'
-        longitude: '-151.11111'  
-      #contact_links:
-      #  - icon: twitter
-      #    icon_pack: fab
-      #    name: DM Me
-      #    link: 'https://twitter.com/Twitter'
+        longitude: '151.11111'  
+      contact_links:
+        - icon: at
+          icon_pack: fas
+          name: Email me
+          link: 'mailto:p.bourrat@gmail.com'
       #  - icon: skype
       #    icon_pack: fab
       #    name: Skype Me
