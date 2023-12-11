@@ -24,7 +24,7 @@ publishDate: 2022-05-30T23:28:48+10:00
 # Optional date to print, e.g. "forthcoming" or "preprint"
 #date_print: "in press"
 
-featured: true
+featured: false
 
 
 # Options for drafts
@@ -42,7 +42,7 @@ featured: true
 # 6 = Book Section;
 # 7 = Thesis;
 # 8 = Patent;
-publication_types: [2]
+publication_types: [Journal article]
 
 # Publication name and optional abbreviated publication name.
 publication: "_Evolutionary psychology_ 9(2), pp. 193–199."
