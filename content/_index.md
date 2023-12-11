@@ -42,11 +42,12 @@ sections:
     id: publications
     content:
       title: Selected Publications
+      page_type: publication
+      count: 1
       filters:
         folders:
           - publication
         featured_only: true
-      count: 1
       order: desc
     design:
       columns: '2'
