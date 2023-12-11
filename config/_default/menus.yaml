@@ -7,20 +7,20 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Posts
-    url: '#posts'
+  - name: Research
+    url: '#research'
     weight: 20
-  - name: Projects
-    url: '#projects'
-    weight: 30
-  - name: Talks
-    url: '#talks'
-    weight: 40
   - name: Publications
-    url: '#featured'
-    weight: 50
+    url: '#publications'
+    weight: 30  
+  - name: CV
+    url: 'https://drive.google.com/file/d/12pgowLGTXs1q1YXO_XUeWI-ym1Fm3lnF/view?usp=sharing'
+    weight: 40
   - name: Contact
     url: '#contact'
+    weight: 50
+  - name: News
+    url: '/news'
     weight: 60
 
 # Link to a PDF of your resume/CV from the menu.

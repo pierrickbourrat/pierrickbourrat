@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
+  theme_day: Mr Robot
+  theme_night: Mr Robot
   font: minimal
   font_size: L
 
@@ -18,13 +18,11 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Hugo Blox Builder.'
-    twitter: 'GetResearchDev'
+    description: 'Philosopher of Biology'
+    twitter: ''
   analytics:
-    google_analytics: ''
+    google_analytics: 'UA-140317290-1'
     baidu_tongji: ''
-    google_tag_manager: ''
-    microsoft_clarity: ''
   verification:
     google: ''
     baidu: ''
@@ -44,12 +42,12 @@ header:
 # Site footer
 
 footer:
-  copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+  copyright: 
+    notice: '© {year} Pierrick Bourrat.'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
 
 # Localization
@@ -64,8 +62,8 @@ locale:
 features:
   syntax_highlighter:
     theme_light: github-light
-    theme_dark: dracula
-  math:
+    theme_dark: dracula 
+      math:
     enable: false
   privacy_pack:
     enable: false
@@ -112,5 +110,7 @@ extensions:
 # Security
 
 security:
-  # Allow frame for embedding speaker notes in slides
+ # Allow frame for embedding speaker notes in slides
   allow_frame: true
+  
+citation_style: APA
