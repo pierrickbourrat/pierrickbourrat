@@ -41,14 +41,16 @@ sections:
   - block: collection
     id: publications
     content:
-      title: Featured Publications
+      title: Selected Publications
       filters:
         folders:
           - publication
         featured_only: true
+      count: 1
+      order: desc
     design:
       columns: '2'
-      view: card
+      view: compact
   - block: contact
     id: contact
     content:
