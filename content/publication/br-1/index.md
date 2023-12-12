@@ -43,7 +43,7 @@ featured: false
 # 8 = Patent;
 # 9 = Book review;
 # 10 = Encyclopedia article;
-publication_types: [book_section]
+publication_types: [book_review]
 
 
 # Publication name and optional abbreviated publication name.

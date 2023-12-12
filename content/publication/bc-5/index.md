@@ -42,7 +42,7 @@ featured: false
 # 6 = Book Section;
 # 7 = Thesis;
 # 8 = Patent;
-publication_types: [book_review]
+publication_types: [book_chapter]
 
 # Publication name and optional abbreviated publication name.
 publication: "In M. Herron, W. C. Ratcliff, & P. L. Conlin (Eds.), _The Evolution of Multicellularity_, CRC Press (pp. 227-248)"

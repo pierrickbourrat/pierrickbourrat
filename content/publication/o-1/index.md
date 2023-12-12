@@ -1,11 +1,11 @@
 ---
 title: "Testing More Specific Hypotheses and Going beyond Correlations in the Origins
-  and Evolution of Religious Beliefs. Comment on Ara Norenzayan's Book _Big Gods:
-  How Religion Transformed Cooperation and Conflict_"
+  and Evolution of Religious Beliefs. Comment on Ara Norenzayan's Book 'Big Gods:
+  How Religion Transformed Cooperation and Conflict'"
 authors:
 - Pierrick Bourrat
 date: '2011'
-publishDate: '2023-12-12T08:25:03.908615Z'
+publishDate: '2013-12-12T08:25:03.908615Z'
 publication_types: [comment]
 
 publication: "The University of Sydney"
