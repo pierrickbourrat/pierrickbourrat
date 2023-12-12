@@ -43,7 +43,7 @@ featured: false
 # 8 = Patent;
 # 9 = Book review;
 # 10 = Encyclopedia article;
-publication_types: [10]
+publication_types: [encyclopedia_article]
 
 # Publication name and optional abbreviated publication name.
 publication: "_Encyclopédie Philosophique_"

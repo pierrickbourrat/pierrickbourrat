@@ -41,7 +41,7 @@ featured: false
 # 6 = Book Section;
 # 7 = Thesis;
 # 8 = Patent;
-publication_types: [2]
+publication_types: [journal]
 
 # Publication name and optional abbreviated publication name.
 publication: "_Evolution and Human Behavior_, 32(1), pp. 41–49"

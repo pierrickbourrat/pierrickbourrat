@@ -43,7 +43,7 @@ featured: false
 # 8 = Patent;
 # 9 = Book review;
 # 10 = Encyclopedia article;
-publication_types: [2]
+publication_types: [journal]
 
 # Publication name and optional abbreviated publication name.
 publication: "_Studies in History and Philosophy of Science_, 94, pp. 87–98"

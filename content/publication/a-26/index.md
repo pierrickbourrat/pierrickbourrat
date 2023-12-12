@@ -41,7 +41,7 @@ featured: false
 # 6 = Book Section;
 # 7 = Thesis;
 # 8 = Patent;
-publication_types: [2]
+publication_types: [journal]urnal]urnal]
 
 # Publication name and optional abbreviated publication name.
 publication: "_Philosophy of Science_, 87(5), pp. 1073–1083."

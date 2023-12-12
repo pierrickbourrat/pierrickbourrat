@@ -42,7 +42,7 @@ featured: false
 # 7 = Thesis;
 # 8 = Patent;# 9 = Book review;
 # 10 = Encyclopedia article;
-publication_types: [10]
+publication_types: [encyclopedia_article]
 
 # Publication name and optional abbreviated publication name.
 publication: "_Springer International Publishing_."

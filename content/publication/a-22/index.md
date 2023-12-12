@@ -41,7 +41,7 @@ featured: false
 # 6 = Book Section;
 # 7 = Thesis;
 # 8 = Patent;
-publication_types: [2]
+publication_types: [journal]
 
 # Publication name and optional abbreviated publication name.
 publication: "_Studies in History and Philosophy of Science Part A_, 80, pp. 1–8."

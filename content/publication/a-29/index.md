@@ -42,7 +42,7 @@ featured: false
 # 6 = Book Section;
 # 7 = Thesis;
 # 8 = Patent;
-publication_types: [2]
+publication_types: [journal]
 
 # Publication name and optional abbreviated publication name.
 publication: " _BioEssays_, 43(1)."

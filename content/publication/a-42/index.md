@@ -46,7 +46,7 @@ featured: false
 # 9 = Book review;
 # 10 = Encyclopedia article;
 # 11 = Comment;
-publication_types: [2]
+publication_types: [journal]
 
 # Publication name and optional abbreviated publication name.
 publication: "_Journal of Theoretical Biology_, 561, 111414"

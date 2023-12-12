@@ -41,7 +41,7 @@ featured: true
 # 6 = Book Section;
 # 7 = Thesis;
 # 8 = Patent;
-publication_types: [5]
+publication_types: [book]
 
 # Publication name and optional abbreviated publication name.
 publication: "_Cambridge University Press_"

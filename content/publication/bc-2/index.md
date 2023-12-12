@@ -43,7 +43,7 @@ featured: false
 # 6 = Book Section;
 # 7 = Thesis;
 # 8 = Patent;
-publication_types: [6]
+publication_types: [book_section]
 
 # Publication name and optional abbreviated publication name.
 publication: "In K. Kampourakis (Ed.), _The Philosophy of Biology_, (pp. 373–394)."

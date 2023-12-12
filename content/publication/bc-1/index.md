@@ -41,7 +41,7 @@ featured: false
 # 6 = Book Section;
 # 7 = Thesis;
 # 8 = Patent;
-publication_types: [6]
+publication_types: [book_section]
 
 # Publication name and optional abbreviated publication name.
 publication: ""

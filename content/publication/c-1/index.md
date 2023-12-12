@@ -43,7 +43,7 @@ featured: false
 # 9 = Book review;
 # 10 = Encyclopedia article;
 # 11 = Comment;
-publication_types: [11]
+publication_types: [comment]
 
 # Publication name and optional abbreviated publication name.
 publication: "_Behavioral and Brain Sciences_"

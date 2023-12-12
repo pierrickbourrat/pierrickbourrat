@@ -43,7 +43,7 @@ featured: false
 # 8 = Patent;
 # 9 = Book review;
 # 10 = Encyclopedia article;
-publication_types: [9]
+publication_types: [book_review]
 
 # Publication name and optional abbreviated publication name.
 publication: "_Notre Dame Philosophical Reviews_"
