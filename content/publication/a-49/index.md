@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/ 
 # to have my name highlighted in publication use "admin" for author instead of Pierrick Bourrat
 
-title: "From Fitness-Centered to Trait-Centered Explanations: What EvolutionaryTransitions in Individuality Teach Us About Fitness"
+title: "From Fitness-Centered to Trait-Centered Explanations: What Evolutionary Transitions in Individuality Teach Us About Fitness"
 authors:  
  - Peter Takacs
  - Guilhem Doulcier
