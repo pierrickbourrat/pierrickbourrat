@@ -41,7 +41,7 @@ featured: false
 # 6 = Book Section;
 # 7 = Thesis;
 # 8 = Patent;
-publication_types: [journal]urnal]urnal]urnal]urnal]urnal]
+publication_types: [journal]
 
 # Publication name and optional abbreviated publication name.
 publication: "_Synthese_, 198, pp. 6689–6715."
