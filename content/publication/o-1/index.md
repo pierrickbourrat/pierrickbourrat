@@ -1,11 +1,68 @@
 ---
 title: "Testing More Specific Hypotheses and Going beyond Correlations in the Origins
-  and Evolution of Religious Beliefs.  Comment on Ara Norenzayan's Book emphBig Godsemph:
-  emphHow Religion Transformed Cooperationemph and emphConflict"
+  and Evolution of Religious Beliefs. Comment on Ara Norenzayan's Book _Big Gods:
+  How Religion Transformed Cooperation and Conflict_"
 authors:
 - Pierrick Bourrat
-date: '2011-01-01'
+date: '2011'
 publishDate: '2023-12-12T08:25:03.908615Z'
 publication_types:
-- article-journal
+- [comment]
+
+publication: "The University of Sydney"
+publication_short: ""
+
+doi: ""
+
+abstract: ""
+
+# Summary. An optional shortened abstract.
+summary: "(2013). _Institute for Cognition and Culture_."
+
+#Feel free to add others
+tags:
+- 
+
+categories: []
+
+
+# Custom links (optional).
+#   Uncomment and edit lines below to show custom links.
+links:
+ - name: Link
+   url: http://cognitionandculture.net/webinars/big-gods-book-club/big-gods-book-club-3-testing-more-specific-hypotheses-and-going-beyond-correlations-in-the-orig/
+   icon_pack: fas
+   icon: link
+
+
+
+url_preprint:
+url_pdf:
+url_project:
+url_slides:
+url_video:
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+# image:
+ # caption: ""
+ # focal_point: ""
+ # preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides: ""
+
+
 ---
