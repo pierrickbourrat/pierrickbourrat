@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 ttitle: Pierrick Bourrat # Website name
-baseURL: 'https://pierrickbourrat.github.io/' # Website URL
+baseURL: 'https://pierrrickbourrat.com/' # Website URL
 
 ############################
 ## LANGUAGE
