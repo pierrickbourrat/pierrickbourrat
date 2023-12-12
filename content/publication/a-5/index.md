@@ -44,7 +44,7 @@ featured: false
 publication_types: [journal]
 
 # Publication name and optional abbreviated publication name.
-publication: "_Biology & Philosophy_, 29(4), pp. 517–538"
+publication: "_Biology & Philosophy_, 29(4), pp. 517–538."
 publication_short: ""
 
 doi: "10/gd2zf9"

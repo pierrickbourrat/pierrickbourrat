@@ -48,7 +48,7 @@ featured: false
 publication_types: [journal]
 
 # Publication name and optional abbreviated publication name.
-publication: " _Philosophy of Science_"
+publication: " _Philosophy of Science_."
 publication_short: ""
 
 doi: "10.1017/psa.2023.162"
@@ -56,7 +56,7 @@ doi: "10.1017/psa.2023.162"
 abstract: "Fitness has taken center stage in debates concerning how best to identify evolutionary transitions in individuality (ETIs). An influential framework proposes that an ETI occurs only when fitness is exported from constituent particles to a collective. We reformulate the conceptual structure of this framework as involving three steps. The culminating step compares “counterfactual” fitnesses against a long-run measure of fitness. This comparison assumes that collective-level fitness mereologically supervenes on particle fitness. However, if this assumption is rigorously enforced, the proposed conditions for identifying ETIs prove to be too weak. We here suggest an alternative model of ETIs centered around traits."
 
 # Summary. An optional shortened abstract.
-summary: "(forthcoming). _Philosophy of Science_"
+summary: "(forthcoming). _Philosophy of Science_."
 
 #Feel free to add others
 tags:

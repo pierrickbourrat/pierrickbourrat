@@ -45,7 +45,8 @@ publication_types: [journal]
 
 # Publication name and optional abbreviated publication name.
 publication: "_Philosophy of Science_, 84(1), pp. 14–34."
-publication_short: ""
+publication_
+short: ""
 
 doi: "10.1086/688933"
 

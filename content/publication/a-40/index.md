@@ -49,7 +49,7 @@ featured: false
 publication_types: [journal]
 
 # Publication name and optional abbreviated publication name.
-publication: "Australasian Philosophical Review"
+publication: "_Australasian Philosophical Review_."
 publication_short: ""
 
 doi: ""
@@ -59,7 +59,7 @@ philosophy of mind, philosophy of medicine and elsewhere. The theory has been de
 much greater attention to the structure of actual evolutionary explanations."
 
 # Summary. An optional shortened abstract.
-summary: "(in press). _Australasian Philosophical Review_" 
+summary: "(in press). _Australasian Philosophical Review_." 
 
 #Feel free to add others
 tags:

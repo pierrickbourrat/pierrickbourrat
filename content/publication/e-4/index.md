@@ -46,7 +46,7 @@ featured: false
 publication_types: [encyclopedia_article]
 
 # Publication name and optional abbreviated publication name.
-publication: "_Encyclopédie Philosophique_"
+publication: "_Encyclopédie Philosophique_."
 publication_short: ""
 
 doi: ""

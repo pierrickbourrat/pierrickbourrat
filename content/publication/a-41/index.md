@@ -49,7 +49,7 @@ featured: false
 publication_types: [journal]
 
 # Publication name and optional abbreviated publication name.
-publication: "_ELife_, 11, e73715"
+publication: "_ELife_, 11, e73715."
 publication_short: ""
 
 doi: "10.7554/eLife.73715"

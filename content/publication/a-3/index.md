@@ -44,7 +44,7 @@ featured: false
 publication_types: [journal]
 
 # Publication name and optional abbreviated publication name.
-publication: "_Evolution and Human Behavior_, 32(1), pp. 41–49"
+publication: "_Evolution and Human Behavior_, 32(1), pp. 41–49."
 publication_short: ""
 
 doi: "10.1016/j.evolhumbehav.2010.07.008"

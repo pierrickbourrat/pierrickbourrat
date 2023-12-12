@@ -60,7 +60,7 @@ out an alternative position that regards groups as a target of selection in a wa
 not merely definitional fiat and provide a theoretical basis for this position."
 
 # Summary. An optional shortened abstract.
-summary: "(forthcoming). _Erkenntnis_"
+summary: "(forthcoming). _Erkenntnis_."
 
 #Feel free to add others
 tags:
