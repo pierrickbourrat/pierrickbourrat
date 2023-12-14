@@ -44,7 +44,7 @@ sections:
       title: Selected Publications
       subtitle: "<a href='/publication/'>See all publications</a>"
       page_type: publication
-      count: 1
+      count: 3
       filters:
         folders:
           - publication
