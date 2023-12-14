@@ -42,7 +42,7 @@ sections:
     id: publications
     content:
       title: Selected Publications
-      subtitle: "<a href='/publication/'>See all publications</a>"
+      subtitle:
       page_type: publication
       count: 1
       filters:
