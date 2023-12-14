@@ -24,7 +24,7 @@ publishDate: 2022-05-30T23:28:48+10:00
 # Optional date to print, e.g. "forthcoming" or "preprint"
 #date_print: "in press"
 
-featured: false
+featured: true
 
 
 # Options for drafts
