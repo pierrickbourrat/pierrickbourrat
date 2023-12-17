@@ -62,6 +62,7 @@ social:
     link: https://orcid.org/0000-0002-4465-6015
   - icon: brands/x
     link: https://x.com/pierrickbourrat
+    icon_pack: hb
     
 
 # Link to a PDF of your resume/CV.
