@@ -60,9 +60,9 @@ social:
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0002-4465-6015
-  - icon: x-twitter
+  - icon: twitter
     link: https://x.com/pierrickbourrat
-    icon_pack: custom
+    icon_pack: fab
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
