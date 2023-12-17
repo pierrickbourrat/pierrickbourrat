@@ -60,8 +60,7 @@ social:
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0002-4465-6015
-  - icon: x
-    icon_pack: fab
+  - icon: brands/x
     link: https://x.com/pierrickbourrat
     
 
