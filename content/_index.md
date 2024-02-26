@@ -75,8 +75,8 @@ sections:
       office_hours: 'By appointment'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '-33.774516933260756' 
-        longitude: '151.11333676760427'  
+        latitude: '-33.77460614747958'
+        longitude: '151.1136328347495'  
       contact_links:
         - icon: at
           icon_pack: fas
