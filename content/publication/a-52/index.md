@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/ 
 # to have my name highlighted in publication use "admin" for author instead of Pierrick Bourrat
 
-title: "Adding causality to the information-theoretic perspective on individuality"
+title: "Adding Causality to the Information-Theoretic Perspective on Individuality"
 authors:  
  - admin
 
@@ -20,7 +20,7 @@ date: 2024-01-01T14:50:54+11:00
 publishDate: 2024-01-01T23:28:48+10:00
 
 # Optional date to print, e.g. "forthcoming" or "preprint"
-date_print: "2024"
+#date_print: "forthcoming"
 
 featured: false
 

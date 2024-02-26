@@ -65,8 +65,8 @@ sections:
       #phone: 888 888 88 88
       #appointment_url: 'https://calendly.com'
       address:
-        street: Macquarie University
-        city: North Ryde
+        street: Department of Philosophy,  17 Wally's Walk 
+        city: Macquarie University
         region: NSW
         postcode: '2109'
         country: Australia
@@ -75,8 +75,8 @@ sections:
       office_hours: 'By appointment'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '-33.77453'
-        longitude: '151.11111'  
+        latitude: '-33.774516933260756' 
+        longitude: '151.11333676760427'  
       contact_links:
         - icon: at
           icon_pack: fas
