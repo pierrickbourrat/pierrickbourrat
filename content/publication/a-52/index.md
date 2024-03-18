@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/ 
 # to have my name highlighted in publication use "admin" for author instead of Pierrick Bourrat
 
-title: "Adding Causality to the Information-Theoretic Perspective on Individuality"
+title: "Adding causality to the information-theoretic perspective on individuality"
 authors:  
  - admin
 

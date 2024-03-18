@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/ 
 # to have my name highlighted in publication use "admin" for author instead of Pierrick Bourrat
 
-title: "Context Matters: A Response to Autzen and Okasha’s Reply to Takacs and Bourrat"
+title: "Context matters: a response to Autzen and Okasha’s reply to Takacs and Bourrat"
 authors:  
  - Peter Takacs
  - admin
