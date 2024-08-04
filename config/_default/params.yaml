@@ -41,7 +41,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Pierrik Bourrat.'
+    notice: '© {year} Pierrick Bourrat.'
     license:
       enable: true
       allow_derivatives: false
