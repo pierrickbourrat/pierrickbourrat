@@ -89,9 +89,9 @@ highlight_name: true
 ---
 I am a Senior Lecturer and DECRA Fellow at Macquarie University, Sydney, Australia. I specialise in philosophy of biology. Together with Paul Griffiths, I head the [Theory and Method in Biosciences](https://tmbiosci.org/) group.
 
-From 2017 to 2020 I was a Macquarie University Research Fellow. In 2015, I completed a PhD in philosophy of biology at the University of Sydney.
+From 2017 to 2020 I was a Macquarie University Research Fellow. I completed a PhD in philosophy of biology at the University of Sydney in 2025.
 
-My work focuses on core concepts of evolutionary theory, such as fitness and heritability, as well as evolutionary transitions in individuality and causation.
+My work focuses on core concepts of evolutionary theory, such as fitness and heritability, as well as evolutionary transitions in individuality.
 
-My other interests include the interplay between biological and cultural evolution and the evolution of religious beliefs.
+My other interests include causation, the interplay between biological and cultural evolution and the evolution of religious beliefs.
 

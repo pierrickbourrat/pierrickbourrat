@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
-i_am:
+i_am_a_sponsor: true
 appearance:
   mode: system
   color: emerald
