@@ -4,6 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
+i_am:
 appearance:
   mode: system
   color: emerald
@@ -39,7 +40,6 @@ header:
 
 # Site footer
 footer:
-  block: minimal
   copyright:
     notice: '© {year} Pierrik Bourrat.'
     license:
