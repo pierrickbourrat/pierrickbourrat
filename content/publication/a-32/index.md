@@ -36,11 +36,12 @@ featured: false
 # 6 = Book Section;
 # 7 = Thesis;
 # 8 = Patent;
+
 publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
- "_British Journal for the Philosophy of Science_, 74(4), 921-946"
+publication : "_British Journal for the Philosophy of Science_, 74(4), 921-946"
 publication_short: ""
 
 doi: ""
