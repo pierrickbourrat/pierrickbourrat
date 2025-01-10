@@ -43,10 +43,11 @@ featured: false
 # 8 = Patent;
 # 9 = Book review;
 # 10 = Encyclopedia article;
-publication_types: [journal]
+publication_types:
+- article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: "_Studies in History and Philosophy of Science_, 94, pp. 87–98."
+publication: "_Studies in History and Philosophy of Science_, 94, pp. 87–98"
 publication_short: ""
 
 doi: "10.1016/j.shpsa.2022.05.005"
@@ -54,7 +55,7 @@ doi: "10.1016/j.shpsa.2022.05.005"
 abstract: "Heritability estimated using the analysis of variance (ANOVA) for ascribing causal responsibility to genes for a phenotype has been criticized widely. First, there are problems associated with articulating the exact causal meaning of heritability in the standard model. Second, in conditions of gene–environment interaction or covariation that violate the assumptions made by the standard model, a causal interpretation of heritability is thought to be unwarranted. This paper aims to rethink these ideas and associated disputes from a structural causal modeling (SCM) perspective. Using SCM, we show that, in the standard model, heritability reflects the causal effect of eliminating genotypic differences on the change of phenotypic variance of a population. In the presence of interaction or covariation, heritability is estimated incorrectly using ANOVA. However, SCM can provide the causal effect of genotypes on the phenotypic variance regarding particular interventions. We also show that SCM can identify different types of causal effect and answer individual-level causal questions. We conclude that SCM has the resources to provide a systematic causal interpretation that can supplement traditional heritability estimates via ANOVA and offer a more substantial causal analysis of genetic causation."
 
 # Summary. An optional shortened abstract.
-summary: "(2022). _Studies in History and Philosophy of Science_, 94, pp. 87–98."
+summary: "(2022). _Studies in History and Philosophy of Science_, 94, pp. 87–98"
 
 #Feel free to add others
 tags:

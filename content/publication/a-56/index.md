@@ -9,7 +9,7 @@ date: '2024-07-01'
 publishDate: '2024-08-03T14:07:44.910646Z'
 publication_types:
 - article-journal
-publication: '*Biology & Philosophy*'
+publication: '_Biology & Philosophy_, 39(4), 15'
 doi: 10.1007/s10539-024-09951-3
 abstract: "The new foundation for the propensity interpretation of fitness (PIF),
   developed by Pence and Ramsey (Br J Philos Sci 64:851--881, 2013), describes fitness

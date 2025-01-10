@@ -46,7 +46,7 @@ featured: false
 publication_types: [comment]
 
 # Publication name and optional abbreviated publication name.
-publication: "_Behavioral and Brain Sciences_, 45, e185."
+publication: "_Behavioral and Brain Sciences_, 45, e185"
 publication_short: ""
 
 doi: "10.1017/S0140525X22002072"
@@ -54,7 +54,7 @@ doi: "10.1017/S0140525X22002072"
 abstract: "Madole and Harden plead for better integration of causal knowledge of different depths to understand complex human traits. Classically, local causes—a particular type of shallow causes—are considered less useful than more generalisable causes, giving a false impression that the latter causes are more useful and desirable. Using a simple example, I show that sometimes the contrary is true."
 
 # Summary. An optional shortened abstract.
-summary: "(2023). _Behavioral and Brain Sciences_, 45, e185."
+summary: "(2023). _Behavioral and Brain Sciences_, 45, e185"
 
 #Feel free to add others
 tags:

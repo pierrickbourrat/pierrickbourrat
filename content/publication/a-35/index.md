@@ -41,10 +41,11 @@ featured: false
 # 6 = Book Section;
 # 7 = Thesis;
 # 8 = Patent;
-publication_types: [journal]
+publication_types:
+- article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: "_Studies in History and Philosophy of Science_, 91, pp. 201–210."
+publication: "_Studies in History and Philosophy of Science_, 91, pp. 201–210"
 publication_short: ""
 
 doi: "10.1016/j.shpsa.2021.10.019"
@@ -52,7 +53,7 @@ doi: "10.1016/j.shpsa.2021.10.019"
 abstract: "Despite being widely used in both biology and psychology as if it were a single notion, heritability is not a unified concept. This is also true in evolutionary theory, in which the word ‘heritability’ has at least two technical definitions that only partly overlap. These yield two approaches to heritability: the ‘variance approach’ and the ‘regression approach.’ In this paper, I aim to unify these two approaches. After presenting them, I argue that a general notion of heritability ought to satisfy two desiderata—‘general applicability’ and ‘separability of the causes of resemblance.’ I argue that neither the variance nor the regression approach satisfies these two desiderata concomitantly. From there, I develop a general definition of heritability that relies on the distinction between intrinsic and extrinsic properties. I show that this general definition satisfies the two desiderata. I then illustrate the potential usefulness of this general definition in the context of microbiome research."
 
 # Summary. An optional shortened abstract.
-summary: "(2022). _Studies in History and Philosophy of Science_, 91, pp. 201–210."
+summary: "(2022). _Studies in History and Philosophy of Science_, 91, pp. 201–210"
 
 #Feel free to add others
 tags:

@@ -42,10 +42,11 @@ featured: false
 # 6 = Book Section;
 # 7 = Thesis;
 # 8 = Patent;
-publication_types: [journal]
+publication_types:
+- article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: "_Religion, Brain & Behavior_, 2(1), pp. 119–134."
+publication: "_Religion, Brain & Behavior_, 2(1), pp. 119–134"
 publication_short: ""
 
 doi: "10.1080/2153599X.2011.598325"
@@ -53,7 +54,7 @@ doi: "10.1080/2153599X.2011.598325"
 abstract: "Cooperation for the public good is vulnerable to exploitation by free-riders because it always pays individuals to exploit the social contract for their own benefit. This problem can be resolved if free-riders are punished, but punishment is itself a public good subject to free-riding. The fear of supernatural punishment hypothesis (FSPH) proposes that belief in supernatural punishment might offer a solution to this problem by deflecting the cost of punishment onto supernatural forces and thereby incentivizing cooperation. FSPH is supported empirically by ethnographic data, but this work has so far focused on (1) institutional cooperative traits which may not reflect individual choices on how to behave in everyday social interactions and (2) threat of punishment from all-powerful moralizing high gods rather than other agents capable of supernatural punishment. Here, we consider the FSPH using variables which are linked to individual interaction and expand the number of variables measuring belief in different forms of supernatural punishment. Our findings do not fit these more general FSPH predictions. We suggest there may be something special about the link between moralizing high gods and institutional enforcement of cooperation that is not captured by these other variables."
 
 # Summary. An optional shortened abstract.
-summary: "(2011). _Religion, Brain & Behavior_, 2(1), pp. 119–134."
+summary: "(2011). _Religion, Brain & Behavior_, 2(1), pp. 119–134"
 
 #Feel free to add others
 tags:

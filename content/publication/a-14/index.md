@@ -41,10 +41,11 @@ featured: false
 # 6 = Book Section;
 # 7 = Thesis;
 # 8 = Patent;
-publication_types: [journal]
+publication_types:
+- article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: "_Philosophy of Science_, 84(1), pp. 14–34."
+publication: "_Philosophy of Science_, 84(1), pp. 14–34"
 short: ""
 
 doi: "10.1086/688933"
@@ -52,7 +53,7 @@ doi: "10.1086/688933"
 abstract: "A high heritability estimate usually corresponds to a situation in which trait variation is largely caused by genetic variation. However, in some cases of gene-environment covariance, causal intuitions about the sources of trait difference can vary, leading experts to disagree as to how the heritability estimate should be interpreted. We argue that the source of contention for these cases is an inconsistency in the interpretation of the concepts ‘genotype’, ‘phenotype’, and ‘environment’.We propose an interpretation of these terms under which trait variance initially caused by genetic variance is subsumed into a heritability for all cases of gene-environment covariance."
 
 # Summary. An optional shortened abstract.
-summary: "(2017). _Philosophy of Science_, 84(1), pp. 14–34."
+summary: "(2017). _Philosophy of Science_, 84(1), pp. 14–34"
 
 #Feel free to add others
 tags:

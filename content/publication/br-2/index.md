@@ -46,7 +46,7 @@ featured: false
 publication_types: [book_review]
 
 # Publication name and optional abbreviated publication name.
-publication: "_Notre Dame Philosophical Reviews_."
+publication: "_Notre Dame Philosophical Reviews_"
 publication_short: ""
 
 doi: ""
@@ -54,7 +54,7 @@ doi: ""
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "(2017). _Notre Dame Philosophical Reviews_."
+summary: "(2017). _Notre Dame Philosophical Reviews_"
 
 #Feel free to add others
 tags:

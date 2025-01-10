@@ -41,10 +41,11 @@ featured: false
 # 6 = Book Section;
 # 7 = Thesis;
 # 8 = Patent;
-publication_types: [journal]
+publication_types:
+- article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: "_Journal of Cognition and Culture_, 22(3–4), pp. 185–202."
+publication: "_Journal of Cognition and Culture_, 22(3–4), pp. 185–202"
 publication_short: ""
 
 doi: "10.1163/15685373-12340131"
@@ -52,7 +53,7 @@ doi: "10.1163/15685373-12340131"
 abstract: "The question of whether cultural transmission is faithful has attracted significant debate over the last 30 years. The degree of fidelity with which an object is transmitted depends on 1) the features chosen to be relevant, and 2) the quantity of details given about those features. Once these choices have been made, an object is described at a particular grain. In the absence of conventions between different researchers and across different fields about which grain to use, transmission fidelity cannot be evaluated because it is relative to the choice of grain. In biology, because a genotype-to-phenotype mapping exists and transmission occurs from genotype to genotype, a privileged grain of description exists that circumvents this ‘grain problem.’ In contrast, in cultural evolution, the genotype–phenotype distinction cannot be drawn, rendering claims about fidelity dependent upon researchers’ choices. Thus, due to a lack of unified conventions, claims about fidelity transmission are difficult to evaluate."
 
 # Summary. An optional shortened abstract.
-summary: "(2022). _Journal of Cognition and Culture_, 22(3–4), pp. 185-202."
+summary: "(2022). _Journal of Cognition and Culture_, 22(3–4), pp. 185-202"
 
 #Feel free to add others
 tags:

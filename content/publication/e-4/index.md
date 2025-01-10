@@ -46,7 +46,7 @@ featured: false
 publication_types: [encyclopedia_article]
 
 # Publication name and optional abbreviated publication name.
-publication: "_Encyclopédie Philosophique_."
+publication: "_Encyclopédie Philosophique_"
 publication_short: ""
 
 doi: ""
@@ -54,7 +54,7 @@ doi: ""
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "(2016). In M. Kristanek (Ed.), _Encyclopédie Philosophique_."
+summary: "(2016). In M. Kristanek (Ed.), _Encyclopédie Philosophique_"
 
 #Feel free to add others
 tags:

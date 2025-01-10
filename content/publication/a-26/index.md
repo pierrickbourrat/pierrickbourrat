@@ -41,10 +41,11 @@ featured: false
 # 6 = Book Section;
 # 7 = Thesis;
 # 8 = Patent;
-publication_types: [journal]
+publication_types:
+- article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: "_Philosophy of Science_, 87(5), pp. 1073–1083."
+publication: "_Philosophy of Science_, 87(5), pp. 1073–1083"
 publication_short: ""
 
 doi: "10.1086/710517"
@@ -52,7 +53,7 @@ doi: "10.1086/710517"
 abstract: "Genome-wide association studies (GWAS) of human complex traits have provided us with new estimates of heritability. These estimates foreground the question of genetic causation. After having presented in simple terms the rationale underlying this way of estimating heritability, I assess the extent to which relationships between genes and phenotypes established with GWAS satisfy several dimensions of causal relationships—namely, range of influence, specificity, and stability—distinguished within the interventionist account of causation. The upshot is that if these relationships are causal in some sense, my analysis shows the extent to which they do not represent paradigmatic causal relationships."
 
 # Summary. An optional shortened abstract.
-summary: "(2020). _Philosophy of Science_, 87(5), pp. 1073–1083."
+summary: "(2020). _Philosophy of Science_, 87(5), pp. 1073–1083"
 
 #Feel free to add others
 tags:

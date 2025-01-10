@@ -45,7 +45,7 @@ featured: false
 publication_types: [book_section]
 
 # Publication name and optional abbreviated publication name.
-publication: "In M. Herron, W. C. Ratcliff, & P. L. Conlin (Eds.), _The Evolution of Multicellularity_, CRC Press (pp. 227-248)."
+publication: "In M. Herron, W. C. Ratcliff, & P. L. Conlin (Eds.), _The Evolution of Multicellularity_, CRC Press (pp. 227-248)"
 publication_short: ""
 
 doi: ""
@@ -53,7 +53,7 @@ doi: ""
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "(2022). In M. Herron, W. C. Ratcliff, & P. L. Conlin (Eds.), _The Evolution of Multicellularity_, CRC Press (pp. 227-248)."
+summary: "(2022). In M. Herron, W. C. Ratcliff, & P. L. Conlin (Eds.), _The Evolution of Multicellularity_, CRC Press (pp. 227-248)"
 
 #Feel free to add others
 tags:

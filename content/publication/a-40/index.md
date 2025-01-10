@@ -24,7 +24,7 @@ date: 2021-10-27T06:42:16+10:00
 publishDate: 2022-05-30T23:28:48+10:00
 
 # Optional date to print, e.g. "forthcoming" or "preprint"
-date_print: "in press"
+date_print: "2022"
 
 featured: false
 
@@ -46,10 +46,11 @@ featured: false
 # 8 = Patent;
 # 9 = Book review;
 # 10 = Encyclopedia article;
-publication_types: [journal]
+publication_types:
+- article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: "_Australasian Philosophical Review_."
+publication: "_Australasian Philosophical Review_, 6(4), pp. 335-359"
 publication_short: ""
 
 doi: ""

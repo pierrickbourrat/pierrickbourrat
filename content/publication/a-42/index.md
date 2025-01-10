@@ -46,10 +46,11 @@ featured: false
 # 9 = Book review;
 # 10 = Encyclopedia article;
 # 11 = Comment;
-publication_types: [journal]
+publication_types:
+- article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: "_Journal of Theoretical Biology_, 561, 111414."
+publication: "_Journal of Theoretical Biology_, 561, 111414"
 publication_short: ""
 
 doi: "10.1016/j.jtbi.2023.111414"
@@ -57,7 +58,7 @@ doi: "10.1016/j.jtbi.2023.111414"
 abstract: "Previous work has shown how a minimal ecological structure consisting of patchily distributed resources and recurrent dispersal between patches can scaffold Darwinian properties onto collections of cells. When the timescale of dispersal is long compared with the time to consume resources, patch fitness increases but comes at a cost to cell growth rates. This creates conditions that initiate evolutionary transitions in individuality. A key feature of the scaffold is a bottleneck created during dispersal, causing patches to be founded by single cells. The bottleneck decreases competition within patches and, hence, creates a strong hereditary link at the level of patches. Here, we construct a fully stochastic model to investigate the effect of bottleneck size on the evolutionary dynamics of both cells and collectives. We show that larger bottlenecks simply slow the dynamics, but, at some point, which depends on the parameters of the within-patch model, the direction of evolution towards the equilibrium reverses. Introduction of random fluctuations in bottleneck sizes with some positive probability of smaller sizes counteracts this, even when the probability of smaller bottlenecks is minimal."
 
 # Summary. An optional shortened abstract.
-summary: "(2023)._Journal of Theoretical Biology_, 561, 111414."
+summary: "(2023)._Journal of Theoretical Biology_, 561, 111414"
 
 #Feel free to add others
 tags:

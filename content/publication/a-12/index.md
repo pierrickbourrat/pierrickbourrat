@@ -41,10 +41,11 @@ featured: false
 # 6 = Book Section;
 # 7 = Thesis;
 # 8 = Patent;
-publication_types: [journal]
+publication_types:
+- article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: "_Philosophy of Science_, 84(5), pp. 1055–1067."
+publication: "_Philosophy of Science_, 84(5), pp. 1055–1067"
 publication_short: ""
 
 doi: "10.1086/694007"
@@ -52,7 +53,7 @@ doi: "10.1086/694007"
 abstract: "Heritability estimates obtained from genome-wide association studies (GWAS) are much lower than those of traditional quantitative methods. This phenomenon has been called the “missing heritability problem.” By analyzing and comparing GWAS and traditional quantitative methods, we first show that the estimates obtained from the latter involve some terms other than additive genetic variance, while the estimates fromthe former do not. Second, GWAS,when used to estimate heritability, do not take into account additive epigenetic factors transmitted across generations, while traditional quantitative methods do. Given these two points we show that the missing heritability problem can largely be dissolved."
 
 # Summary. An optional shortened abstract.
-summary: "(2017). _Philosophy of Science_, 84(5), pp. 1055–1067."
+summary: "(2017). _Philosophy of Science_, 84(5), pp. 1055–1067"
 
 #Feel free to add others
 tags:

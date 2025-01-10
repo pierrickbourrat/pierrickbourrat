@@ -1,12 +1,12 @@
 ---
 title: Independence and the Levels of Selection
 authors:
-- Pierrick Bourrat
+- admin
 date: '2024-12-01'
 publishDate: '2025-01-09T23:41:14.416376Z'
 publication_types:
 - article-journal
-publication: '*Philosophy, Theory, and Practice in Biology*'
+publication: '_Philosophy, Theory, and Practice in Biology_, 16(3)'
 doi: 10.3998/ptpbio.5252
 abstract: The idea that selection can go in opposite directions or, more generally,
   be independent at different levels is well entrenched in both the biological and

@@ -46,7 +46,7 @@ featured: false
 publication_types: [book_section]
 
 # Publication name and optional abbreviated publication name.
-publication: "In K. Kampourakis (Ed.), _The Philosophy of Biology_, (pp. 373–394)."
+publication: "In K. Kampourakis (Ed.), _The Philosophy of Biology_, (pp. 373–394)"
 publication_short: ""
 
 doi: "10.1007/978-94-007-6537-5"
@@ -54,7 +54,7 @@ doi: "10.1007/978-94-007-6537-5"
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "(2013). In K. Kampourakis (Ed.), _The Philosophy of Biology_, (pp. 373–394)."
+summary: "(2013). In K. Kampourakis (Ed.), _The Philosophy of Biology_, (pp. 373–394)"
 
 #Feel free to add others
 tags:

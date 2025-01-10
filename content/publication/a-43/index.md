@@ -42,10 +42,11 @@ featured: false
 # 9 = Book review;
 # 10 = Encyclopedia article;
 # 11 = Comment;
-publication_types: [journal]
+publication_types:
+- article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: "_Philosophy of Science_, 90(3), pp. 704-720."
+publication: "_Philosophy of Science_, 90(3), pp. 704-720"
 publication_short: ""
 
 doi: "10.1017/psa.2023.44"
@@ -53,7 +54,7 @@ doi: "10.1017/psa.2023.44"
 abstract: "The compatibility of the Gaia hypothesis with Darwinism is often challenged on the grounds that 1) to be potent, natural selection requires the existence of a population (whereas Gaia is a single entity), and 2) natural selection requires the entities forming a population to reproduce (while Gaia merely persists). However, using the Price equation, I argue, following others, that the Gaia hypothesis can fit squarely within a Darwinian framework because Gaia can exhibit adaptations if a process at a lower level (e.g., an ecosystem) can occur, and the notion of natural selection can be extended to accommodate evolution without reproduction."
 
 # Summary. An optional shortened abstract.
-summary: "(2023). _Philosophy of Science_, 90(3), pp. 704-720."
+summary: "(2023). _Philosophy of Science_, 90(3), pp. 704-720"
 
 #Feel free to add others
 tags:

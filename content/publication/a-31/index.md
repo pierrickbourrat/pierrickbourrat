@@ -41,10 +41,11 @@ featured: false
 # 6 = Book Section;
 # 7 = Thesis;
 # 8 = Patent;
-publication_types: [journal]
+publication_types:
+- article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: "_Entropy_, 23(6), 690."
+publication: "_Entropy_, 23(6), 690"
 publication_short: ""
 
 doi: "10.3390/e23060690"
@@ -52,7 +53,7 @@ doi: "10.3390/e23060690"
 abstract: "Invariance is one of several dimensions of causal relationships within the interventionist account. The more invariant a relationship between two variables, the more the relationship should be considered paradigmatically causal. In this paper, I propose two formal measures to estimate invariance, illustrated by a simple example. I then discuss the notion of invariance for causal relationships between non-nominal (i.e., ordinal and quantitative) variables, for which Information theory, and hence the formalism proposed here, is not well suited. Finally, I propose how invariance could be qualiﬁed for such variables."
 
 # Summary. An optional shortened abstract.
-summary: "(2021). _Entropy_, 23(6), 690."
+summary: "(2021). _Entropy_, 23(6), 690"
 
 #Feel free to add others
 tags:

@@ -49,10 +49,11 @@ featured: false
 # 9 = Book review;
 # 10 = Encyclopedia article;
 # 11 = Comment;
-publication_types: [journal]
+publication_types:
+- article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: "_Oikos_, 2023(8), e10024."
+publication: "_Oikos_, 2023(8), e10024"
 publication_short: ""
 
 doi: "10.1111/oik.10024"
@@ -60,7 +61,7 @@ doi: "10.1111/oik.10024"
 abstract: "The Dialogue series is intended to promote critical thinking and the expression of contrasting or even opposing viewpoints on important ecological topics. Here, seven researchers debate the use of the Price equation, a framework that has long been used in evolution to analyze temporal changes in the frequency of traits and alleles. This Dialogue describes different philosophical and mathematical perspectives on the application of the Price equation to ecological questions such as the relationship between biodiversity and ecosystem functioning (BEF). The hope is that the broader scientific community will benefit from these contrasting viewpoints."
 
 # Summary. An optional shortened abstract.
-summary: (2023). _Oikos_, 2023(8), e10024.
+summary: (2023). _Oikos_, 2023(8), e10024
 
 #Feel free to add others
 tags:

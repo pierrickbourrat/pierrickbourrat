@@ -41,10 +41,11 @@ featured: false
 # 6 = Book Section;
 # 7 = Thesis;
 # 8 = Patent;
-publication_types: [journal]
+publication_types:
+- article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: "_Theory in Biosciences_, 138(2), pp. 305–323."
+publication: "_Theory in Biosciences_, 138(2), pp. 305–323"
 publication_short: ""
 
 doi: "10.1007/s12064-019-00294-2"
@@ -52,7 +53,7 @@ doi: "10.1007/s12064-019-00294-2"
 abstract: "With a few exceptions, the literature on evolutionary transitions in individuality (ETIs) has mostly focused on the relationships between lower-level (particle-level) and higher-level (collective-level) selection, leaving aside the question of the relationship between particle-level and collective-level inheritance. Yet, without an account of this relationship, our hope to fully understand the evolutionary mechanisms underlying ETIs is impeded. To that effect, I present a highly idealized model to study the relationship between particle-level and collective-level heritability both when a collective-level trait is a linear function and when it is a nonlinear function of a particle-level trait. I first show that when a collective trait is a linear function of a particle-level trait, collective-level heritability is a by-product of particle-level heritability. It is equal to particle-level heritability, whether the particles interact randomly or not to form collectives. Second, I show that one effect of population structure is the reduction in variance in offspring collective-level character for a given parental collective. I propose that this reduction in variance is one dimension of individuality. Third, I show that even in the simple case of a nonlinear collective-level character, collective-level heritability is not only weak but also highly dependent on the frequency of the different types of particles in the global population. Finally, I show that population structure, because one of its effects is to reduce the variance in offspring collective-level character, allows not only for an increase in collective-level character but renders it less context dependent. This in turn permits a stable collective-level response to selection. The upshot is that population structure is a driver for ETIs. These results are particularly significant in that the relationship between population structure and collective-level heritability has, to my knowledge, not been previously explored in the context of ETIs."
 
 # Summary. An optional shortened abstract.
-summary: "(2019). _Theory in Biosciences_, 138(2), pp. 305–323."
+summary: "(2019). _Theory in Biosciences_, 138(2), pp. 305–323"
 
 #Feel free to add others
 tags:

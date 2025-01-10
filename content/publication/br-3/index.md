@@ -46,7 +46,7 @@ featured: false
 publication_types: [book_review]
 
 # Publication name and optional abbreviated publication name.
-publication: "_BSPS_."
+publication: "_BSPS_"
 publication_short: ""
 
 doi: ""
@@ -54,7 +54,7 @@ doi: ""
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "(2021). _BSPS_."
+summary: "(2021). _BSPS_"
 
 #Feel free to add others
 tags:

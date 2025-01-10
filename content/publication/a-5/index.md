@@ -41,10 +41,11 @@ featured: false
 # 6 = Book Section;
 # 7 = Thesis;
 # 8 = Patent;
-publication_types: [journal]
+publication_types:
+- article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: "_Biology & Philosophy_, 29(4), pp. 517–538."
+publication: "_Biology & Philosophy_, 29(4), pp. 517–538"
 publication_short: ""
 
 doi: "10/gd2zf9"
@@ -52,7 +53,7 @@ doi: "10/gd2zf9"
 abstract: "For evolution by natural selection to occur it is classically admitted that the three ingredients of variation, difference in fitness and heredity are necessary and sufficient. In this paper, I show using simple individual-based models, that evolution by natural selection can occur in populations of entities in which neither heredity nor reproduction are present. Furthermore, I demonstrate by complexifying these models that both reproduction and heredity are predictable Darwinian products (i.e. complex adaptations) of populations initially lacking these two properties but in which new variation is introduced via mutations. Later on, I show that replicators are not necessary for evolution by natural selection, but rather the ultimate product of such processes of adaptation. Finally, I assess the value of these models in three relevant domains for Darwinian evolution."
 
 # Summary. An optional shortened abstract.
-summary: "(2014). _Biology & Philosophy_, 29(4), pp. 517–538."
+summary: "(2014). _Biology & Philosophy_, 29(4), pp. 517–538"
 
 #Feel free to add others
 tags:

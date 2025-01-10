@@ -41,10 +41,11 @@ featured: false
 # 6 = Book Section;
 # 7 = Thesis;
 # 8 = Patent;
-publication_types: [journal]
+publication_types:
+- article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: "_Acta Biotheoretica_, 64(2), pp. 197–217."
+publication: "_Acta Biotheoretica_, 64(2), pp. 197–217"
 publication_short: ""
 
 doi: "10.1007/s10441-016-9280-5"
@@ -52,7 +53,7 @@ doi: "10.1007/s10441-016-9280-5"
 abstract: "Okasha, in Evolution and the Levels of Selection, convincingly argues that two rival statistical decompositions of covariance, namely contextual analysis and the neighbour approach, are better causal decompositions than the hierarchical Price approach. However, he claims that this result cannot be generalized in the special case of soft selection and argues that the Price approach represents in this case a better option. He provides several arguments to substantiate this claim. In this paper, I demonstrate that these arguments are flawed and argue that neither the Price equation nor the contextual and neighbour partitionings sensu Okasha are adequate causal decompositions in cases of soft selection. The Price partitioning is generally unable to detect cross-level by-products and this naturally also applies to soft selection. Both contextual and neighbour partitionings violate the fundamental principle of determinism that the same cause always produces the same effect. I argue that a fourth partitioning widely used in the contemporary social sciences, under the generic term of ‘hierarchical linear model’ and related to contextual analysis understood broadly, addresses the shortcomings of the three other partitionings and thus represents a better causal decomposition. I then defend this model against the argument that because it predicts that there is some organismal selection in some specific cases of segregation distortion then it should be rejected. I show that cases of segregation distortion that intuitively seem to contradict the conclusion drawn from the hierarchical linear model are in fact cases of multilevel selection 2 while the assessment of the different partitionings are restricted to multilevel selection 1."
 
 # Summary. An optional shortened abstract.
-summary: "(2016). _Acta Biotheoretica_, 64(2), pp. 197–217."
+summary: "(2016). _Acta Biotheoretica_, 64(2), pp. 197–217"
 
 #Feel free to add others
 tags:

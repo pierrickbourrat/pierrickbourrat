@@ -44,10 +44,11 @@ featured: false
 # 9 = Book review;
 # 10 = Encyclopedia article;
 # 11 = Comment;
-publication_types: [journal]
+publication_types:
+- article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: " _Biological Theory_."
+publication: "_Biological Theory_, 19(3), pp. 170-176"
 publication_short: ""
 
 doi: "10.1007/s13194-023-00566-1"
@@ -55,7 +56,7 @@ doi: "10.1007/s13194-023-00566-1"
 abstract: "In a recent reply to Takacs and Bourrat’s article (Biol Philos 37:12, 2022), Autzen and Okasha (Biol Philos 37:37, 2022) question our characterization of the relationship between the geometric mean and arithmetic mean measures of fitness. We here take issue with the claim that our characterization falls prey to the mistakes they highlight. Briefly revisiting what Takacs and Bourrat (Biol Philos 37:12, 2022) accomplished reveals that the key issue of difference concerns cases of deterministic but nonconstant growth. Restricting focus to such cases shows that there is in fact no reason for disagreement."
 
 # Summary. An optional shortened abstract.
-summary: "(in press). _Biological Theory_."
+summary: "_Biological Theory_, 19(3), pp. 170-176"
 
 #Feel free to add others
 tags:

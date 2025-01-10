@@ -8,7 +8,7 @@ date: '2011'
 publishDate: '2013-12-12T08:25:03.908615Z'
 publication_types: [comment]
 
-publication: "_International Cognition and Culture Institute_."
+publication: "_International Cognition and Culture Institute_"
 publication_short: ""
 
 doi: ""
@@ -16,7 +16,7 @@ doi: ""
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "(2013). _International Cognition and Culture Institute_."
+summary: "(2013). _International Cognition and Culture Institute_"
 
 #Feel free to add others
 tags:

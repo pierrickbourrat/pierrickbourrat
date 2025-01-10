@@ -43,7 +43,8 @@ featured: false
 # 9 = Book review;
 # 10 = Encyclopedia article;
 # 11 = Comment;
-publication_types: [journal]
+publication_types:
+- article-journal
 
 # Publication name and optional abbreviated publication name.
 publication: " _Erkenntnis_"
@@ -60,7 +61,7 @@ out an alternative position that regards groups as a target of selection in a wa
 not merely definitional fiat and provide a theoretical basis for this position."
 
 # Summary. An optional shortened abstract.
-summary: "(forthcoming). _Erkenntnis_."
+summary: "(forthcoming). _Erkenntnis_"
 
 #Feel free to add others
 tags:

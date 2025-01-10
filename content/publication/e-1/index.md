@@ -47,7 +47,7 @@ featured: false
 publication_types: [encyclopedia_article]
 
 # Publication name and optional abbreviated publication name.
-publication: "_The Stanford Encyclopedia of Philosophy_."
+publication: "_The Stanford Encyclopedia of Philosophy_"
 publication_short: ""
 
 doi: ""
@@ -55,7 +55,7 @@ doi: ""
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "(2018). Replication and Reproduction. In E. N. Zalta (Ed.), _The Stanford Encyclopedia of Philosophy_."
+summary: "(2018). Replication and Reproduction. In E. N. Zalta (Ed.), _The Stanford Encyclopedia of Philosophy_"
 
 #Feel free to add others
 tags:

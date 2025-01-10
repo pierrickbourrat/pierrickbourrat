@@ -41,10 +41,11 @@ featured: false
 # 6 = Book Section;
 # 7 = Thesis;
 # 8 = Patent;
-publication_types: [journal]
+publication_types:
+- article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: "_The British Journal For The Philosophy of Science_, 69(3), pp. 775–800."
+publication: "_The British Journal For The Philosophy of Science_, 69(3), pp. 775–800"
 publication_short: ""
 
 doi: "10.1093/bjps/axw035"
@@ -52,7 +53,7 @@ doi: "10.1093/bjps/axw035"
 abstract: "Advocates of an ‘extended evolutionary synthesis’ have claimed that standard evolutionary theory fails to accommodate epigenetic inheritance. The opponents of the extended synthesis argue that the evidence for epigenetic inheritance causing adaptive evolution in nature is insufficient. We suggest that the ambiguity surrounding the conception of the gene represents a background semantic issue in the debate. Starting from Haig’s geneselectionist framework and Griffiths and Neumann-Held’s notion of the evolutionary gene, we define senses of ‘gene’, ‘environment’, and ‘phenotype’ in a way that makes them consistent with gene-centric evolutionary theory. We argue that the evolutionary gene, when being materialized, need not be restricted to nucleic acids but can encompass other heritable units such as epialleles. If the evolutionary gene is understood more broadly, and the notions of environment and phenotype are defined accordingly, current evolutionary theory does not require a major conceptual change in order to incorporate the mechanisms of epigenetic inheritance."
 
 # Summary. An optional shortened abstract.
-summary: "(2018). _The British Journal For The Philosophy of Science_, 69(3), pp. 775–800."
+summary: "(2018). _The British Journal For The Philosophy of Science_, 69(3), pp. 775–800"
 
 #Feel free to add others
 tags:

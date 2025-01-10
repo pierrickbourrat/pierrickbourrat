@@ -41,10 +41,11 @@ featured: false
 # 6 = Book Section;
 # 7 = Thesis;
 # 8 = Patent;
-publication_types: [journal]
+publication_types:
+- article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: "_Biological Theory_, 10(4), pp. 311–321."
+publication: "_Biological Theory_, 10(4), pp. 311–321"
 publication_short: ""
 
 doi: "10.1007/s13752-015-0210-6"
@@ -52,7 +53,7 @@ doi: "10.1007/s13752-015-0210-6"
 abstract: "Altruism is one of the most studied topics in theoretical evolutionary biology. The debate surrounding the evolution of altruism has generally focused on the conditions under which altruism can evolve and whether it is better explained by kin selection or multilevel selection. This debate has occupied the forefront of the stage and left behind a number of equally important questions. One of them, which is the subject of this article, is whether the word ‘‘selection’’ in ‘‘kin selection’’ and ‘‘multilevel selection’’ necessarily refers to ‘‘evolution by natural selection.’’ I show, using a simple individual-centered model, that once clear conditions for natural selection and altruism are specified, one can distinguish two kinds of evolution of altruism, only one of which corresponds to the evolution of altruism by natural selection, the other resulting from other evolutionary processes."
 
 # Summary. An optional shortened abstract.
-summary: "(2015). _Biological Theory_, 10(4), pp. 311–321."
+summary: "(2015). _Biological Theory_, 10(4), pp. 311–321"
 
 #Feel free to add others
 tags:

@@ -44,10 +44,11 @@ featured: false
 # 9 = Book review;
 # 10 = Encyclopedia article;
 # 11 = Comment;
-publication_types: [journal]
+publication_types:
+- article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: "_Biology & Philosophy_, 38(4), 33."
+publication: "_Biology & Philosophy_, 38(4), 33"
 publication_short: ""
 
 doi: "10.1007/s10539-023-09917-x"
@@ -55,7 +56,7 @@ doi: "10.1007/s10539-023-09917-x"
 abstract: "Explaining the emergence of individuality in the process of evolution remains a challenge; it faces the difficulty of characterizing adequately what ‘emergence’ amounts to. Here, I present a pragmatic account of individuality in which I take up this challenge. Following this account, individuals that emerge from an evolutionary transition in individuality are coarse-grained entities: entities that are summaries of lower-level evolutionary processes. Although this account may prima facie appear to ultimately rely on epistemic considerations, I show that it can be used to vindicate the emergence of individuals in a quasi-ontological sense. To this end, I discuss a recent account of evolutionary transitions in individuality proposed by Godfrey-Smith and Kerr (Brit J Philos Sci 64(1):205–222, 2013) where a transition occurs through several stages, each with an accompanying model. I focus on the final stage where higher-level entities are ascribed a separate fitness parameter, while they were not in the previous stages. In light of my account, I provide some justification for why such a change in parameters is necessary and cannot be dismissed as merely epistemic."
 
 # Summary. An optional shortened abstract.
-summary: "(2023). _Biology & Philosophy_, 38(4), 33."
+summary: "(2023). _Biology & Philosophy_, 38(4), 33"
 
 #Feel free to add others
 tags:

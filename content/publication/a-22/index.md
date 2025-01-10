@@ -41,10 +41,11 @@ featured: false
 # 6 = Book Section;
 # 7 = Thesis;
 # 8 = Patent;
-publication_types: [journal]
+publication_types:
+- article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: "_Studies in History and Philosophy of Science Part A_, 80, pp. 1–8."
+publication: "_Studies in History and Philosophy of Science Part A_, 80, pp. 1–8"
 publication_short: ""
 
 doi: "10.1016/j.shpsa.2019.03.003"
@@ -52,7 +53,7 @@ doi: "10.1016/j.shpsa.2019.03.003"
 abstract: "Over the last 20 years, the concept of natural selection has been highly debated in the philosophy of biology. Yet, most discussions on this topic have focused on the questions of whether natural selection is a causal process and whether it can be distinguished from drift. In this paper, I identify another sort of problem with respect to natural selection. I show that, in so far as a classical definition of fitness includes the transmission of a type between generations as part of the definition, it seems difficult to see how the fitness of an entity, following this definition, could be description independent. In fact, I show that by including type transmission as part of the definition of fitness, changing the grain at which the type of an entity is described can change the fitness of that entity. If fitness is not grain-of-description independent, this further propagates to the process of natural selection itself. I call this problem the ‘reference grain problem’. I show that it can be linked to the reference class problem in probability theory. I tentatively propose two solutions to it."
 
 # Summary. An optional shortened abstract.
-summary: "(2020). _Studies in History and Philosophy of Science Part A_, 80, pp. 1–8."
+summary: "(2020). _Studies in History and Philosophy of Science Part A_, 80, pp. 1–8"
 
 #Feel free to add others
 tags:

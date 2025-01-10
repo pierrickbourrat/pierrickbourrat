@@ -41,10 +41,11 @@ featured: false
 # 6 = Book Section;
 # 7 = Thesis;
 # 8 = Patent;
-publication_types: [journal]
+publication_types:
+- article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: "_Biological Theory_, 12(1), 27–38."
+publication: "_Biological Theory_, 12(1), 27–38"
 publication_short: ""
 
 doi: "10.1007/s13752-016-0254-2"
@@ -52,7 +53,7 @@ doi: "10.1007/s13752-016-0254-2"
 abstract: "Drift is often characterized in statistical terms. Yet such a purely statistical characterization is ambiguous for it can accept multiple physical interpretations. Because of this ambiguity it is important to distinguish what sorts of processes can lead to this statistical phenomenon. After presenting a physical interpretation of drift originating from the most popular interpretation of fitness, namely the propensity interpretation, I propose a different one starting from an analysis of the concept of drift made by Godfrey-Smith. Further on, I show how my interpretation relates to previous attempts to make sense of the notion of expected value in deterministic setups. The upshot of my analysis is a physical conception of drift that is compatible with both a deterministic and indeterministic world."
 
 # Summary. An optional shortened abstract.
-summary: "(2017). _Biological Theory_, 12(1), 27–38."
+summary: "(2017). _Biological Theory_, 12(1), 27–38"
 
 #Feel free to add others
 tags:

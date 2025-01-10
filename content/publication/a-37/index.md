@@ -41,10 +41,11 @@ featured: false
 # 6 = Book Section;
 # 7 = Thesis;
 # 8 = Patent;
-publication_types: [journal]
+publication_types:
+- article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: "_Biology & Philosophy_, 37(2), 12."
+publication: "_Biology & Philosophy_, 37(2), 12"
 publication_short: ""
 
 doi: "10.1007/s10539-022-09843-4"
@@ -52,7 +53,7 @@ doi: "10.1007/s10539-022-09843-4"
 abstract: "Showing that the arithmetic mean number of offspring for a trait type often fails to be a predictive measure of fitness was a welcome correction to the philosophical literature on fitness. While the higher mathematical moments (variance, skew, kurtosis, etc.) of a probability-weighted offspring distribution can influence fitness measurement in distinct ways, the geometric mean number of offspring is commonly singled out as the most appropriate measure. For it is well-suited to a compounding (multiplicative) process and is sensitive to variance in offspring number. The geometric mean thus proves to be a predictively efficacious measure of fitness in examples featuring discrete generations and within- or between-generation variance in offspring output. Unfortunately, this advance has subsequently led some to conclude that the arithmetic mean is never (or at best infrequently) a good measure of fitness and that the geometric mean should accordingly be the default measure of fitness. We show not only that the arithmetic mean is a perfectly reasonable measure of fitness so long as one is clear about what it refers to (in particular, when it refers to growth rate), but also that it functions as a more general measure when properly interpreted. It must suffice as a measure of fitness in any case where the geometric mean has been effectively deployed as a measure. We conclude with a discussion about why the mathematical equivalence we highlight cannot be dismissed as merely of mathematical interest."
 
 # Summary. An optional shortened abstract.
-summary: "(2022). _Biology & Philosophy_, 37(2), 12."
+summary: "(2022). _Biology & Philosophy_, 37(2), 12"
 
 #Feel free to add others
 tags:

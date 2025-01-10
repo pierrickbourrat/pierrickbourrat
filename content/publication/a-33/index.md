@@ -41,10 +41,11 @@ featured: false
 # 6 = Book Section;
 # 7 = Thesis;
 # 8 = Patent;
-publication_types: [journal]
+publication_types:
+- article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: "_Studies in History and Philosophy of Science Part A_, 90, 61–67."
+publication: "_Studies in History and Philosophy of Science Part A_, 90, 61–67"
 publication_short: ""
 
 doi: "10.1016/j.shpsa.2021.09.007"
@@ -52,7 +53,7 @@ doi: "10.1016/j.shpsa.2021.09.007"
 abstract: "The selected effect account is regarded by many as one of the most attractive accounts of function. This account assumes that the function of a trait is what it has been selected for. Recently, it has been generalized by Justin Garson to include cases in which selection is understood as a simple sorting process, i.e., a selection process between entities that do not reproduce. However, once extended, this generalized selected effect account seems to ascribe functions to entities for which it looks unintuitive to do so. For instance, the hardness of rocks on a beach being differentially eroded by waves would be ascribed the function of resisting erosion. Garson provides one central argument why, despite appearance, one should not ascribe functions in cases of such sorting processes. In this paper, I start by presenting his argument, which hinges on whether a collection of entities form a population. I find it wanting. I argue instead that some selection processes are evolutionarily more or less interesting and that when a selection process is regarded as evolutionarily uninteresting, it will yield an uninteresting form of function rather than a reason for withholding the concept of function altogether."
 
 # Summary. An optional shortened abstract.
-summary: "(2021). _Studies in History and Philosophy of Science Part A_, 90, 61–67."
+summary: "(2021). _Studies in History and Philosophy of Science Part A_, 90, 61–67"
 
 #Feel free to add others
 tags:

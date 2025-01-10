@@ -44,10 +44,11 @@ featured: false
 # 9 = Book review;
 # 10 = Encyclopedia article;
 # 11 = Comment;
-publication_types: [journal]
+publication_types:
+- article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: "_Synthese_, 202(3), 72."
+publication: "_Synthese_, 202(3), 72"
 publication_short: ""
 
 doi: "10.1007/s11229-023-04285-1"
@@ -55,7 +56,7 @@ doi: "10.1007/s11229-023-04285-1"
 abstract: "The distinction between multilevel selection 1 (MLS1) and multilevel selection 2 (MLS2) is classically regarded as a distinction between two multilevel selection processes involving two different kinds of higher-level fitness. It has been invoked to explain evolutionary transitions in individuality as a shift from an MLS1 to an MLS2 process. In this paper, I argue against the view that the distinction involves two different kinds of processes. I show, starting from the MLS2 version of the Price equation, that it contains the MLS1 version if, following the assumption that a collective constitutively depends (i.e., mereologically supervenes) on its particles, one considers that a necessary map between fitness at two levels exists. I defend the necessity of such a map, making the distinction between MLS1 and MLS2 a matter of perspective and limited knowledge (i.e., epistemic limitations) rather than objective facts. I then provide some reasons why the MLS1/MLS2 distinction nonetheless has some pragmatic value and might be invoked usefully in some contexts, particularly within the context of explaining evolutionary transitions in individuality."
 
 # Summary. An optional shortened abstract.
-summary: "(2023). _Synthese_, 202(3), 72."
+summary: "(2023). _Synthese_, 202(3), 72"
 
 #Feel free to add others
 tags:

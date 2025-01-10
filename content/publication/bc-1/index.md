@@ -44,7 +44,7 @@ featured: false
 publication_types: [book_section]
 
 # Publication name and optional abbreviated publication name.
-publication: "In T. Heams, P. Huneman, G. Lecointre, & M. Silberstein (Eds.). _Les Mondes Darwiniens_ (pp. 1125–1258)."
+publication: "In T. Heams, P. Huneman, G. Lecointre, & M. Silberstein (Eds.). _Les Mondes Darwiniens_ (pp. 1125–1258)"
 publication_short: ""
 
 doi: ""
@@ -52,7 +52,7 @@ doi: ""
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "(2015). T. Heams, P. Huneman, G. Lecointre, & M. Silberstein (Eds.). _Les Mondes Darwiniens_ (pp. 1125–1258)."
+summary: "(2015). T. Heams, P. Huneman, G. Lecointre, & M. Silberstein (Eds.). _Les Mondes Darwiniens_ (pp. 1125–1258)"
 
 #Feel free to add others
 tags:

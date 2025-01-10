@@ -41,10 +41,11 @@ featured: false
 # 6 = Book Section;
 # 7 = Thesis;
 # 8 = Patent;
-publication_types: [journal]
+publication_types:
+- article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: "_Philosophy & Theory in Biology_, 7."
+publication: "_Philosophy & Theory in Biology_, 7"
 publication_short: ""
 
 doi: "10.3998/ptb.6959004.0007.001"
@@ -52,7 +53,7 @@ doi: "10.3998/ptb.6959004.0007.001"
 abstract: "In this paper, I identify two major problems with the model of evolutionary transitions in individuality (ETIs) developed by Michod and colleagues, and extended by Okasha, commonly referred to as the “export-of-fitness view”. First, it applies the concepts of viability and fertility inconsistently across levels of selection. This leads Michod to claim that once an ETI is complete, lower-level entities composing higher-level individuals have nil fitness. I argue that this claim is mistaken, propose a correct way to translate the concepts of viability and fertility from one level to the other and show that once an ETI is complete, neither viability nor fertility of the lower level entities is nil. Second, the exportof- fitness view does not sufficiently take the parameter of time into account when estimating fitness across levels of selection. As a result fitness is measured over different periods of time at each level. This ultimately means that fitness is measured in different environmental conditions at each level and misleads Okasha into making the claim that the two levels are ontologically distinct levels of selection. I show that once fitness is measured over the same period of time across levels, the claim about two levels of selection can only be an epistemic one."
 
 # Summary. An optional shortened abstract.
-summary: "(2015). _Philosophy & Theory in Biology_, 7."
+summary: "(2015). _Philosophy & Theory in Biology_, 7"
 
 #Feel free to add others
 tags:

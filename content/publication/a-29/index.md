@@ -42,10 +42,11 @@ featured: false
 # 6 = Book Section;
 # 7 = Thesis;
 # 8 = Patent;
-publication_types: [journal]
+publication_types:
+- article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: " _BioEssays_, 43(1)."
+publication: " _BioEssays_, 43(1)"
 publication_short: ""
 
 doi: "10.1002/bies.202000157"
@@ -53,7 +54,7 @@ doi: "10.1002/bies.202000157"
 abstract: "Fitness is a central but notoriously vexing concept in evolutionary biology. The propensity interpretation of fitness is often regarded as the least problematic account for fitness. It ties an individual's fitness to a probabilistic capacity to produce offspring. Fitness has a clear causal role in evolutionary dynamics under this account. Nevertheless, the propensity interpretation faces its share of problems. We discuss three of these. We first show that a single scalar value is an incomplete summary of a propensity. Second, we argue that the widespread method of “abstracting away” environmental idiosyncrasies by averaging over reproductive output in different environments is not a valid approach when environmental changes are irreversible. Third, we point out that expanding the range of applicability for fitness measures by averaging over more environments or longer time scales (so as to ensure environmental reversibility) reduces one's ability to distinguish selectively relevant differences among individuals because of mutation and eco-evolutionary feedbacks. This series of problems leads us to conclude that a general value of fitness that is both explanatory and predictive cannot be attained. We advocate for the use of propensity-compatible methods, such as adaptive dynamics, which can accommodate these difficulties."
 
 # Summary. An optional shortened abstract.
-summary: "(2021). _BioEssays_, 43(1)."
+summary: "(2021). _BioEssays_, 43(1)"
 
 #Feel free to add others
 tags:

@@ -41,10 +41,11 @@ featured: false
 # 6 = Book Section;
 # 7 = Thesis;
 # 8 = Patent;
-publication_types: [journal]
+publication_types:
+- article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: "_Synthese_, 198, pp. 3699–3731."
+publication: "_Synthese_, 198, pp. 3699–3731"
 publication_short: ""
 
 doi: "10.1007/s11229-019-02307-5"
@@ -52,7 +53,7 @@ doi: "10.1007/s11229-019-02307-5"
 abstract: "Evolutionary transitions in individuality (ETIs) are events during which individuals at a given level of organization (particles) interact to form higher-level entities (collectives) which are then recognized as new individuals at that level. ETIs are intimately related to levels of selection, which, following Okasha, can be approached from two different perspectives. One, referred to as ‘synchronic’, asks whether selection occurs at the collective level while the partitioning of particles into collectives is taken for granted. The other, referred to as ‘diachronic’, asks about the origins of the partitioning of particles into collectives. After having presented the two perspectives and a classical formalism used to deal with the levels-of-selection question in the literature, namely the multilevel version of the Price equation, I show that because this formalism treats the levels-of-selection question from a synchronic perspective, it is inadequate to explain ETIs. This is because a fundamental aspect of ETIs is the origin of collectives. From there, I develop a framework for levels of selection compatible with the diachronic perspective. This framework relies on the distinction between what I call, on the one hand, a ‘functional aggregative collective trait’, and on the other hand, a ‘functional non-aggregative collective trait’. After having presented this distinction, I implement it in the Price equation, leading to a new statistical partitioning of this equation which, I argue, represents a causal decomposition more relevant for ETIs. Finally, I exploit this partitioning to explain the critical stages of an ETI. In addition to its explanatory power, a measure of the degree of functional non-aggregativity could be used as a proxy for the degree of individuality of a collective."
 
 # Summary. An optional shortened abstract.
-summary: "(2021). Transitions in Individuality: A formal analysis. _Synthese_, 198, pp. 3699–3731."
+summary: "(2021). Transitions in Individuality: A formal analysis. _Synthese_, 198, pp. 3699–3731"
 
 #Feel free to add others
 tags:

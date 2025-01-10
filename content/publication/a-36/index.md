@@ -41,10 +41,11 @@ featured: false
 # 6 = Book Section;
 # 7 = Thesis;
 # 8 = Patent;
-publication_types: [journal]
+publication_types:
+- article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: "_The British Journal for the Philosophy of Science_."
+publication: "_The British Journal for the Philosophy of Science_"
 publication_short: ""
 
 doi: "10.1086/719118"
@@ -52,7 +53,7 @@ doi: "10.1086/719118"
 abstract: "The hierarchy of life is the result of a succession of evolutionary transitions in individuality (ETIs). During an ETI, individuals at a particular level of organization interact in such a way as to produce larger-level entities that become individuals in their own right. These new individuals are defined by their capacity to exhibit Darwinian properties of variation, differences in fitness, and heredity. One difficulty in accounting for ETIs is articulating how these properties are acquired at a higher level from the lower ones. Collaborators and I recently proposed the ‘ecological scaffolding’ model in which imposing an ecological scaffold (that is, a structure in the environment) on lower-level entities initiates an ETI. Here, I present a new model that extends this work. Within this new model, I propose a mechanism of scaffold endogenization, demonstrating that collectives can become resilient to the ecological scaffold being removed. This type of resilience is not observed in the ecological scaffolding model. However, classically, a biological individual would be regarded as an entity capable of withstanding environmental changes. Thus, the new model proposed here represents a step towards a more complete explanation for ETIs."
 
 # Summary. An optional shortened abstract.
-summary: "(in press). _The British Journal for the Philosophy of Science_."
+summary: "(in press). _The British Journal for the Philosophy of Science_"
 
 #Feel free to add others
 tags:

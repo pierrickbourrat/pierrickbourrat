@@ -41,10 +41,11 @@ featured: false
 # 6 = Book Section;
 # 7 = Thesis;
 # 8 = Patent;
-publication_types: [journal]
+publication_types:
+- article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: " _Acta Biotheoretica_, 66(3), pp. 159–176."
+publication: " _Acta Biotheoretica_, 66(3), pp. 159–176"
 publication_short: ""
 
 doi: "10.1007/s10441-018-9331-1"
@@ -52,7 +53,7 @@ doi: "10.1007/s10441-018-9331-1"
 abstract: "In this paper I critically evaluate Reisman and Forber’s (Philos Sci 72(5):1113–1123, 2005) arguments that drift and natural selection are population- level causes of evolution based on what they call the manipulation condition. Although I agree that this condition is an important step for identifying causes for evolutionary change, it is insufficient. Following Woodward, I argue that the invariance of a relationship is another crucial parameter to take into consideration for causal explanations. Starting from Reisman and Forber’s example on drift and after having briefly presented the criterion of invariance, I show that once both the manipulation condition and the criterion of invariance are taken into account, drift, in this example, should better be understood as an individual-level rather than a populationlevel cause. Later, I concede that it is legitimate to interpret natural selection and drift as population-level causes when they rely on genuinely indeterministic events and some cases of frequency-dependent selection."
 
 # Summary. An optional shortened abstract.
-summary: "(2018). _Acta Biotheoretica_, 66(3), pp. 159–176."
+summary: "(2018). _Acta Biotheoretica_, 66(3), pp. 159–176"
 
 #Feel free to add others
 tags:

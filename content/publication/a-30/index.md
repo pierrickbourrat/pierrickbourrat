@@ -41,10 +41,11 @@ featured: false
 # 6 = Book Section;
 # 7 = Thesis;
 # 8 = Patent;
-publication_types: [journal]
+publication_types:
+- article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: "_Synthese_, 199(3–4), pp. 5815–5836."
+publication: "_Synthese_, 199(3–4), pp. 5815–5836"
 publication_short: ""
 
 doi: "10.1007/s11229-021-03047-1"
@@ -52,7 +53,7 @@ doi: "10.1007/s11229-021-03047-1"
 abstract: "High-fidelity cultural transmission, rather than brute intelligence, is the secret of our species' success, or so many cultural evolutionists claim. It has been selected because it ensures the spread, stability and longevity of beneficial cultural traditions, and it supports cumulative cultural change. To play these roles, however, fidelity must be a causally-efficient property of cultural transmission. This is where the grain problem comes in and challenges the explanatory potency of fidelity. Assessing the degree of fidelity of any episode or mechanism of cultural transmission always depends upon an investigator's choice of grain of description at which cultural tradi­ tions are being studied. The fidelity of cultural transmission then appears to be rela­ tive to the granularity at which one approaches cultural variation, and since there is a multiplicity of grains of description by which the same tradition can be studied, there results a multiplicity of measures of fidelity for a same event or mechanism of cultural transmission. If this is correct, because fidelity is always relative to the grain of description dictated by the local and specific research interests of the investigator, then there seems to be no fact of the matter as to whether cultural transmission is faithful or not, independently from a researcher's framework of analysis. The aims of this paper are to offer a conceptual clarification of the grain problem in cultural evolution, to assess its causes, to unpack its epistemological implications, and to examine its reach and consequences for a science of cultural evolution."
 
 # Summary. An optional shortened abstract.
-summary: "(2021). _Synthese_, 199(3–4), pp. 5815–5836."
+summary: "(2021). _Synthese_, 199(3–4), pp. 5815–5836"
 
 #Feel free to add others
 tags:

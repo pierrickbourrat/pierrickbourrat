@@ -45,7 +45,7 @@ featured: false
 publication_types: [encyclopedia_article]
 
 # Publication name and optional abbreviated publication name.
-publication: "_Springer International Publishing_."
+publication: "_Springer International Publishing_"
 publication_short: ""
 
 doi: ""
@@ -53,7 +53,7 @@ doi: ""
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "(2019). In T. K. Shackelford & V. A. Weekes-Shackelford (Eds.), Encyclopedia of Evolutionary Psychological Science (pp. 1–4). _Springer International Publishing_."
+summary: "(2019). In T. K. Shackelford & V. A. Weekes-Shackelford (Eds.), Encyclopedia of Evolutionary Psychological Science (pp. 1–4). _Springer International Publishing_"
 
 #Feel free to add others
 tags:

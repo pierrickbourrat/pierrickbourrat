@@ -41,10 +41,11 @@ featured: false
 # 6 = Book Section;
 # 7 = Thesis;
 # 8 = Patent;
-publication_types: [journal]
+publication_types:
+- article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: "_Biology & Philosophy_, 34(1), 1."
+publication: "_Biology & Philosophy_, 34(1), 1"
 publication_short: ""
 
 doi: "10.1007/s10539-018-9654-y"
@@ -52,7 +53,7 @@ doi: "10.1007/s10539-018-9654-y"
 abstract: "I argue that Calcott (in Biol Philos 32(4):481–505, Calcott 2017) mischaracterizes in an important way the notion of causal specificity proposed by Woodward (in iol Philos 25(3):287–318, Woodward 2010). This leads him to (1) rely too heavily on one single aspect of Woodward’s analysis on causal specificity; (2) propose an information-theoretic measure he calls ‘precision’ which is partly redundant with, but less general than one of the dimensions in Woodward’s analysis of specificity, without acknowledging Woodward’s analysis; and (3) claim that comparing the specificities of two or more causes under what he calls a competitive analysis of causes, does not permit to capture the distinction between permissive and instructive causes. After having restated Woodward’s analysis of causal specificity, I present an information-theoretic measure (variation of causal information) which, although related to Calcott’s measure, is more general than his and corresponds to the notion of specificity he missed in Woodward’s analysis. I then show how this measure can be used, together with mutual causal information (which captures another dimension of specificity in Woodward’s analysis), to distinguish permissive from instructive cuses in a competitive analysis of causes."
 
 # Summary. An optional shortened abstract.
-summary: "(2019). _Biology & Philosophy_, 34(1), 1."
+summary: "(2019). _Biology & Philosophy_, 34(1), 1"
 
 #Feel free to add others
 tags:

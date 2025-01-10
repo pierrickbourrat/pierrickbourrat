@@ -46,10 +46,11 @@ featured: false
 # 8 = Patent;
 # 9 = Book review;
 # 10 = Encyclopedia article;
-publication_types: [journal]
+publication_types:
+- article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: "_ELife_, 11, e73715."
+publication: "_ELife_, 11, e73715"
 publication_short: ""
 
 doi: "10.7554/eLife.73715"
@@ -57,7 +58,7 @@ doi: "10.7554/eLife.73715"
 abstract: "Evolutionary transitions in individuality (ETIs) involve the formation of Darwinian collectives from Darwinian particles. The transition from cells to multicellular life is a prime example. During an ETI, collectives become units of selection in their own right. However, the underlying processes are poorly understood. One observation used to identify the completion of an ETI is an increase in collective-level performance accompanied by a decrease in particle-level performance, for example measured by growth rate. This seemingly counterintuitive dynamic has been referred to as fitness decoupling and has been used to interpret both models and experimental data. Extending and unifying results from the literature, we show that fitness of particles and collectives can never decouple because calculations of fitness performed over appropriate and equivalent time intervals are necessarily the same provided the population reaches a stable collective size distribution. By way of solution, we draw attention to the value of mechanistic approaches that emphasise traits, and tradeoffs among traits, as opposed to fitness. This trait-based approach is sufficient to capture dynamics that underpin evolutionary transitions. In addition, drawing upon both experimental and theoretical studies, we show that while early stages of transitions might often involve tradeoffs among particle traits, later - and critical - stages are likely to involve the rupture of such tradeoffs. Thus, when observed in the context of ETIs, tradeoff-breaking events stand as a useful marker of these transitions."
 
 # Summary. An optional shortened abstract.
-summary: "(2022). _ELife_, 11, e73715." 
+summary: "(2022). _ELife_, 11, e73715" 
 
 #Feel free to add others
 tags:

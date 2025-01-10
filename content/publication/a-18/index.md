@@ -41,10 +41,11 @@ featured: false
 # 6 = Book Section;
 # 7 = Thesis;
 # 8 = Patent;
-publication_types: [journal]
+publication_types:
+- article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: "_BioEssays_, 40(12), 1800178."
+publication: "_BioEssays_, 40(12), 1800178"
 publication_short: ""
 
 doi: "10.1002/bies.201800178"
@@ -52,7 +53,7 @@ doi: "10.1002/bies.201800178"
 abstract: "Microbiome research attributes to whole microbiomes a causal role in the occurrence of different health outcomes. I argue, following some distinctions about causal relationships and explanations made within a philosophical account of causation, the 'interventionist account,' that such claims need more scrutiny."
 
 # Summary. An optional shortened abstract.
-summary: "(2018). _BioEssays_, 40(12), 1800178."
+summary: "(2018). _BioEssays_, 40(12), 1800178"
 
 #Feel free to add others
 tags:

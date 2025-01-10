@@ -47,7 +47,7 @@ publication_types: [book_review]
 
 
 # Publication name and optional abbreviated publication name.
-publication: "_Australasian Journal of Philosophy_, 95(4), 816–819."
+publication: "_Australasian Journal of Philosophy_, 95(4), 816–819"
 publication_short: ""
 
 doi: "10.1080/00048402.2016.1249380"
@@ -55,7 +55,7 @@ doi: "10.1080/00048402.2016.1249380"
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "(2017). _Australasian Journal of Philosophy_, 95(4), 816–819."
+summary: "(2017). _Australasian Journal of Philosophy_, 95(4), 816–819"
 
 #Feel free to add others
 tags:

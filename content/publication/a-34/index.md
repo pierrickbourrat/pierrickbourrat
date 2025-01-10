@@ -40,10 +40,11 @@ featured: false
 # 6 = Book Section;
 # 7 = Thesis;
 # 8 = Patent;
-publication_types: [journal]
+publication_types:
+- article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: "_European Journal for Philosophy of Science_, 11(4), 112."
+publication: "_European Journal for Philosophy of Science_, 11(4), 112"
 publication_short: ""
 
 doi: "10.1007/s13194-021-00430-0"
@@ -51,7 +52,7 @@ doi: "10.1007/s13194-021-00430-0"
 abstract: "The most consistent definition of fitness makes it a static property of organisms. However, this is not how fitness is used in many evolutionary models. In those models, fitness is permitted to vary with an organism’s circumstances. According to this second conception, fitness is dynamic. There is consequently tension between these two conceptions of fitness. One recently proposed solution suggests resorting to conditional properties. We argue, however, that this solution is unsatisfactory. Using a very simple model, we show that it can lead to incompatible fitness values and indecision about whether selection actually occurs."
 
 # Summary. An optional shortened abstract.
-summary: "(2021). _European Journal for Philosophy of Science_, 11(4), 112."
+summary: "(2021). _European Journal for Philosophy of Science_, 11(4), 112"
 
 #Feel free to add others
 tags:

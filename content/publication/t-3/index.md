@@ -8,7 +8,7 @@ publication_types:
 - thesis
 
 # Publication name and optional abbreviated publication name.
-publication: "PhD Thesis, _The University of Sydney_."
+publication: "PhD Thesis, _The University of Sydney_"
 publication_short: ""
 
 doi: ""
@@ -16,7 +16,7 @@ doi: ""
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "(2014). PhD Thesis, _The University of Sydney_."
+summary: "(2014). PhD Thesis, _The University of Sydney_"
 
 #Feel free to add others
 tags:

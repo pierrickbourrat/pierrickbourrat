@@ -44,7 +44,7 @@ featured: false
 publication_types: [book_section]
 
 # Publication name and optional abbreviated publication name.
-publication: " In T. Heams, P. Huneman, G. Lecointre, & M. Silberstein (Eds.), _Handbook of Evolutionary Thinking in the Sciences_ (pp. 761–780)."
+publication: " In T. Heams, P. Huneman, G. Lecointre, & M. Silberstein (Eds.), _Handbook of Evolutionary Thinking in the Sciences_ (pp. 761–780)"
 publication_short: ""
 
 doi: ""
@@ -52,7 +52,7 @@ doi: ""
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "(2015). In T. Heams, P. Huneman, G. Lecointre, & M. Silberstein (Eds.), _Handbook of Evolutionary Thinking in the Sciences_ (pp. 761–780)."
+summary: "(2015). In T. Heams, P. Huneman, G. Lecointre, & M. Silberstein (Eds.), _Handbook of Evolutionary Thinking in the Sciences_ (pp. 761–780)"
 
 #Feel free to add others
 tags:

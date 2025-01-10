@@ -1,8 +1,7 @@
 ---
-title: 'Individuality Through Ecology: Rethinking the Evolution of Complex Life From
-  an Externalist Perspective'
+title: 'Individuality Through Ecology: Rethinking the Evolution of Complex Life From an Externalist Perspective'
 authors:
-- Pierrick Bourrat
+- admin
 - Peter Takacs
 - Guilhem Doulcier
 - Matthew C. Nitschke
@@ -13,7 +12,7 @@ date: '2024-01-01'
 publishDate: '2025-01-09T23:41:14.406190Z'
 publication_types:
 - article-journal
-publication: '*Ecology and Evolution*'
+publication: '_Ecology and Evolution_, 14(12), e70661'
 doi: 10.1002/ece3.70661
 abstract: The evolution of complex life forms, exemplified by multicellular organisms,
   can be traced through a series of evolutionary transitions in individuality, beginning

@@ -1,6 +1,5 @@
 ---
-title: Stability of Ecologically Scaffolded Traits during Evolutionary Transitions
-  in Individuality
+title: Stability of Ecologically Scaffolded Traits during Evolutionary Transitions in Individuality
 authors:
 - Guilhem Doulcier
 - Peter Takacs
@@ -10,7 +9,7 @@ date: '2024-08-01'
 publishDate: '2024-08-03T14:07:44.903389Z'
 publication_types:
 - article-journal
-publication: '*Nature Communications*'
+publication: '_Nature Communications_, 15(1), 6566'
 doi: 10.1038/s41467-024-50625-1
 abstract: 'Evolutionary transitions in individuality are events in the history of
   life leading to the emergence of new levels of individuality. Recent studies have

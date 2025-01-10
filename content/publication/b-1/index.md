@@ -52,7 +52,7 @@ doi: "DOI: 10.1017/9781108885812"
 abstract: "Debates concerning the units and levels of selection have persisted for over fifty years. One major question in this literature is whether units and levels of selection are genuine, in the sense that they are objective features of the world, or merely reflect the interests and goals of an observer. Scientists and philosophers have proposed a range of answers to this question. This Element introduces this literature and proposes a novel contribution. It defends a realist stance and offers a way of delineating genuine levels of selection by invoking the notion of a functional unit."
 
 # Summary. An optional shortened abstract.
-summary: "(2021). _Cambridge University Press_."
+summary: "(2021). _Cambridge University Press_"
 
 #Feel free to add others
 tags:

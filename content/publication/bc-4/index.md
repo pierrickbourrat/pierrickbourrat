@@ -44,7 +44,7 @@ featured: false
 publication_types: [book_section]
 
 # Publication name and optional abbreviated publication name.
-publication: "In J. R. Liddle & T. K. Shackelford (Eds.), _The Oxford Handbook of Evolutionary Psychology and Religion_ (pp. 296–314)."
+publication: "In J. R. Liddle & T. K. Shackelford (Eds.), _The Oxford Handbook of Evolutionary Psychology and Religion_ (pp. 296–314)"
 publication_short: ""
 
 doi: ""
@@ -52,7 +52,7 @@ doi: ""
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "(2021). In J. R. Liddle & T. K. Shackelford (Eds.), _The Oxford Handbook of Evolutionary Psychology and Religion_ (pp. 296–314)."
+summary: "(2021). In J. R. Liddle & T. K. Shackelford (Eds.), _The Oxford Handbook of Evolutionary Psychology and Religion_ (pp. 296–314)"
 
 #Feel free to add others
 tags:

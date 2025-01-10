@@ -41,10 +41,11 @@ featured: false
 # 6 = Book Section;
 # 7 = Thesis;
 # 8 = Patent;
-publication_types: [journal]
+publication_types:
+- article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: "_Ratio_, 28(1), pp. 40–50."
+publication: "_Ratio_, 28(1), pp. 40–50"
 publication_short: ""
 
 doi: "10.1111/rati.12053"
@@ -52,7 +53,7 @@ doi: "10.1111/rati.12053"
 abstract: "In this paper I argue against the claim, recently put forward by some philosophers of biology and evolutionary biologists, that there can be two or more ontologically distinct levels of selection. I show by comparing the fitness of individuals with that of collectives of individuals in the same environment and over the same period of time – as required to decide if one or more levels of selection is acting in a population – that the selection of collectives is a by-product of selection at the individual level; thus, talking about two or more levels of selection represents merely a different perspective on one and the same process."
 
 # Summary. An optional shortened abstract.
-summary: "(2015). _Ratio_, 28(1), pp. 40–50."
+summary: "(2015). _Ratio_, 28(1), pp. 40–50"
 
 #Feel free to add others
 tags:

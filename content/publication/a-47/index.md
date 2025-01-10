@@ -44,10 +44,11 @@ featured: false
 # 9 = Book review;
 # 10 = Encyclopedia article;
 # 11 = Comment;
-publication_types: [journal]
+publication_types:
+- article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: " _Evolution, Medicine, and Public Health_, 11(1), pp. 277-286."
+publication: " _Evolution, Medicine, and Public Health_, 11(1), pp. 277-286"
 publication_short: ""
 
 doi: "10.1093/emph/eoad023"
@@ -55,7 +56,7 @@ doi: "10.1093/emph/eoad023"
 abstract: "Contemporary evolutionary medicine has unified the idea of 'evolutionary mismatch', derived from the older idea of 'adaptive lag' in evolution, with ideas about the mismatch in development and physiology derived from the Developmental Origins of Health and Disease (DOHaD) paradigm. A number of publications in evolutionary medicine have tried to make this theoretical framework explicit. The integrative theory of mismatch captures how organisms track environments across space and time on multiple scales in order to maintain an adaptive match to the environment, and how failures of adaptive tracking lead to disease. In this review, we try to present this complex body of theory as clearly and simply as possible with the aim of facilitating its application in new domains. We introduce terminology, which is as far as possible consistent with earlier usage, to distinguish the different forms of mismatch. Mismatch in its modern form is a productive organizing concept that can help researchers articulate how physiology, development and evolution interact with one another and with environmental change to explain health outcomes."
 
 # Summary. An optional shortened abstract.
-summary: "(2023). _Evolution, Medicine, and Public Health_, 11(1), pp. 277-286."
+summary: "(2023). _Evolution, Medicine, and Public Health_, 11(1), pp. 277-286"
 
 #Feel free to add others
 tags:

@@ -41,10 +41,11 @@ featured: false
 # 6 = Book Section;
 # 7 = Thesis;
 # 8 = Patent;
-publication_types: [journal]
+publication_types:
+- article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: "_Biological Theory_, 14(4), 254–266."
+publication: "_Biological Theory_, 14(4), 254–266"
 publication_short: ""
 
 doi: "10.1007/s13752-019-00329-3"
@@ -52,7 +53,7 @@ doi: "10.1007/s13752-019-00329-3"
 abstract: "There is a tension between, on the one hand, the view that natural selection refers to individual-level causes, and on the other hand, the view that it refers to a population-level cause. In this article, I make the case for the individual-level cause view. I respond to recent claims made by McLoone that the individual-level cause view is inconsistent. I show that if one were to follow his arguments, any causal claim in any context would have to be regarded as vindicating a form of population-level cause view. I show why this is implausible and how a consistent individual-level cause position can be held within the interventionist account of causation. Finally, I argue that there is one sense in which natural selection might be said to refer to population-level causes of evolutionary change. The upshot is that, as noted by others, natural selection can be regarded as referring to a population-level cause in the context of frequency-dependent selection and other situations of fitness-altering interactions between the individuals of a population. But whether this statement is true will depend on the empirical case investigated, not some a priori conceptual distinction. Thus, even though situations of frequency dependence might be ubiquitous, it is orthogonal to the conceptual question of whether frequency-independent natural selection—McLoone’s target—refers to individual- or population-level causes."
 
 # Summary. An optional shortened abstract.
-summary: "(2019). Evolution is about Populations, but its Causes are about Individuals. _Biological Theory_, 14(4), 254–266."
+summary: "(2019). Evolution is about Populations, but its Causes are about Individuals. _Biological Theory_, 14(4), 254–266"
 
 #Feel free to add others
 tags:

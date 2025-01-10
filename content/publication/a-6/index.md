@@ -41,10 +41,11 @@ featured: false
 # 6 = Book Section;
 # 7 = Thesis;
 # 8 = Patent;
-publication_types: [journal]
+publication_types:
+- article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: "_The British Journal for the Philosophy of Science_, 66(4), pp. 883–903."
+publication: "_The British Journal for the Philosophy of Science_, 66(4), pp. 883–903"
 publication_short: ""
 
 doi: "10.1093/bjps/axu015"
@@ -52,7 +53,7 @@ doi: "10.1093/bjps/axu015"
 abstract: "There are two ways evolution by natural selection (ENS) is conceptualized in the literature. One provides a ‘recipe’ for ENS incorporating three ingredients: variation, differences in fitness, and heritability. The other provides formal equations of evolutionary change and partitions out selection from other causes of evolutionary changes such as transmission biases or drift. When comparing the two approaches there seems to be a tension around the concept of heritability. A recent claim has been made that the recipe approach is flawed and should be abandoned. In this article, I show that the tension is only a superficial one. If one uses a concept of heritability strictly in line with the formal equations of evolutionary change, the recipe approach keeps its validity and generality. To demonstrate that the intuitive concept of heritability is not a general one, I use one formulation of the Price equation formulated by Okasha, show that the concept of heritability in his formulation incorporates both the intuitive notion of heritability as a measure of similarity between parent and offspring characters, and a measure of persistence. I advocate for persistence to be incorporated in the concept of heritability used in recipes for ENS in the same way heredity is, show that this is readily attainable and thereby dissolve any point of tension concerning heritability between the recipe and the analytical approach to ENS."
 
 # Summary. An optional shortened abstract.
-summary: "(2015). _The British Journal for the Philosophy of Science_, 66(4), pp. 883–903."
+summary: "(2015). _The British Journal for the Philosophy of Science_, 66(4), pp. 883–903"
 
 #Feel free to add others
 tags:

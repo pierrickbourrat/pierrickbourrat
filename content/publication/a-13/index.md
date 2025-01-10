@@ -42,10 +42,11 @@ featured: false
 # 6 = Book Section;
 # 7 = Thesis;
 # 8 = Patent;
-publication_types: [journal]
+publication_types:
+- article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: "_BioEssays_, 39(7)."
+publication: "_BioEssays_, 39(7)"
 publication_short: ""
 
 doi: "10.1002/bies.201700067"
@@ -53,7 +54,7 @@ doi: "10.1002/bies.201700067"
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "(2017). _BioEssays_, 39(7)."
+summary: "(2017). _BioEssays_, 39(7)"
 
 #Feel free to add others
 tags:

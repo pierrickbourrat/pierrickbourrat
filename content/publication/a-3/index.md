@@ -41,10 +41,11 @@ featured: false
 # 6 = Book Section;
 # 7 = Thesis;
 # 8 = Patent;
-publication_types: [journal]
+publication_types:
+- article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: "_Evolution and Human Behavior_, 32(1), pp. 41–49."
+publication: "_Evolution and Human Behavior_, 32(1), pp. 41–49"
 publication_short: ""
 
 doi: "10.1016/j.evolhumbehav.2010.07.008"
@@ -52,7 +53,7 @@ doi: "10.1016/j.evolhumbehav.2010.07.008"
 abstract: "Reputation monitoring and the punishment of cheats are thought to be crucial to the viability and maintenance of human cooperation in large groups of non-kin. However, since the cost of policing moral norms must fall to those in the group, policing is itself a public good subject to exploitation by free riders. Recently, it has been suggested that belief in supernatural monitoring and punishment may discourage individuals from violating established moral norms and so facilitate human cooperation. Here we use cross-cultural survey data from a global sample of 87 countries to show that beliefs about two related sources of supernatural monitoring and punishment — God and the afterlife — independently predict respondents' assessment of the justifiability of a range of moral transgressions. This relationship holds even after controlling for frequency of religious participation, country of origin, religious denomination and level of education. As well as corroborating experimental work, our findings suggest that, across cultural and religious backgrounds, beliefs about the permissibility of moral transgressions are tied to beliefs about supernatural monitoring and punishment, supporting arguments that these beliefs may be important promoters of cooperation in human groups."
 
 # Summary. An optional shortened abstract.
-summary: "(2011). _Evolution and Human Behavior_, 32(1), pp. 41–49."
+summary: "(2011). _Evolution and Human Behavior_, 32(1), pp. 41–49"
 
 #Feel free to add others
 tags:

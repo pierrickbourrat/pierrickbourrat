@@ -43,10 +43,11 @@ featured: false
 # 9 = Book review;
 # 10 = Encyclopedia article;
 # 11 = Comment;
-publication_types: [journal]
+publication_types:
+- article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: " _Biological Theory_, 17(4), pp. 263-275."
+publication: " _Biological Theory_, 17(4), pp. 263-275"
 publication_short: ""
 
 doi: "10.1007/s13752-022-00416-y"
@@ -54,7 +55,7 @@ doi: "10.1007/s13752-022-00416-y"
 abstract: "This article proposes two conditions to assess whether an entity at a level of description is a unit of selection qua interactor. These two conditions make it possible to (1) distinguish biologically relevant entities from arbitrary ones and (2) distinguish units that can potentially enter a selection process from those that have already done so. I show that the classical approaches used in the literature on units and levels of selection do not fare well with respect to either or both of these desiderata."
 
 # Summary. An optional shortened abstract.
-summary: "(2022). _Biological Theory_, 17(4), pp. 263-275."
+summary: "(2022). _Biological Theory_, 17(4), pp. 263-275"
 
 #Feel free to add others
 tags:

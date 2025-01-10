@@ -21,7 +21,7 @@ date: 2021-03-01T08:32:19+10:00
 publishDate: 2022-05-30T23:28:48+10:00
 
 # Optional date to print, e.g. "forthcoming" or "preprint"
-date_print: "in press"
+#date_print: "in press"
 
 featured: false
 
@@ -41,10 +41,11 @@ featured: false
 # 6 = Book Section;
 # 7 = Thesis;
 # 8 = Patent;
-publication_types: [journal]
+publication_types:
+- article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: "_British Journal for the Philosophy of Science_."
+ "_British Journal for the Philosophy of Science_, 74(4), 921-946"
 publication_short: ""
 
 doi: ""

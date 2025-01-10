@@ -43,10 +43,11 @@ featured: false
 # 9 = Book review;
 # 10 = Encyclopedia article;
 # 11 = Comment;
-publication_types: [journal]
+publication_types:
+- article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: " _European Journal for Philosophy of Science_, 14(1), 9."
+publication: " _European Journal for Philosophy of Science_, 14(1), 9"
 publication_short: ""
 
 doi: "10.1007/s13194-023-00566-1"
@@ -54,7 +55,7 @@ doi: "10.1007/s13194-023-00566-1"
 abstract: "I extend work from Krakauer et al. (2020), who propose a conception of individuality as the capacity to propagate information through time. From this conception, they develop information-theoretic measures. I identify several shortcomings with these measures—in particular, that they are associative rather than causal. I rectify this shortcoming by deriving a causal information-theoretic measure of individuality. I then illustrate how this measure can be implemented and extended in the context of evolutionary transitions in individuality."
 
 # Summary. An optional shortened abstract.
-summary: "(2024). _European Journal for Philosophy of Science_, 14(1), 9."
+summary: "(2024). _European Journal for Philosophy of Science_, 14(1), 9"
 
 #Feel free to add others
 tags:

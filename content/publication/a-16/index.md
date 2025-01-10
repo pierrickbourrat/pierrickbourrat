@@ -41,10 +41,11 @@ featured: false
 # 6 = Book Section;
 # 7 = Thesis;
 # 8 = Patent;
-publication_types: [journal]
+publication_types:
+- article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: "_History and Philosophy of the Life Sciences_, 40(2)."
+publication: "_History and Philosophy of the Life Sciences_, 40(2)"
 publication_short: ""
 
 doi: "10.1007/s40656-018-0194-1"
@@ -52,7 +53,7 @@ doi: "10.1007/s40656-018-0194-1"
 abstract: "We assess the arguments for recognising functionally integrated multispecies consortia as genuine biological individuals, including cases of so-called ‘holobionts’. We provide two examples in which the same core biochemical processes that sustain life are distributed across a consortium of individuals of different species. Although the same chemistry features in both examples, proponents of the holobiont as unit of evolution would recognize one of the two cases as a multispecies individual whilst they would consider the other as a compelling case of ecological dependence between separate individuals. Some widely used arguments in support of the ‘holobiont’ concept apply equally to both cases, suggesting that those arguments have misidentified what is at stake when seeking to identify a new level of biological individuality. One important aspect of biological individuality is evolutionary individuality. In line with other work on the evolution of individuality, we show that our cases can be distinguished by focusing on the fitness alignment between the partners of the consortia. We conclude that much of the evidence currently presented for the ubiquity and importance of multi-species individuals is simply not to the point, at least unless the issue of biological individuality is firmly divorced from the question of evolutionary individuality."
 
 # Summary. An optional shortened abstract.
-summary: "(2018). _History and Philosophy of the Life Sciences_, 40(2)."
+summary: "(2018). _History and Philosophy of the Life Sciences_, 40(2)"
 
 #Feel free to add others
 tags:

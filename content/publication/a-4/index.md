@@ -41,10 +41,11 @@ featured: false
 # 6 = Book Section;
 # 7 = Thesis;
 # 8 = Patent;
-publication_types: [journal]
+publication_types:
+- article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: "_Philosophia_, 39(2), pp. 397–408."
+publication: "_Philosophia_, 39(2), pp. 397–408"
 publication_short: ""
 
 doi: "10.1007/s11406-010-9294-1"
@@ -52,7 +53,7 @@ doi: "10.1007/s11406-010-9294-1"
 abstract: "In this critical notice to Robert Wright’s The Evolution of God, we focus on the question of whether Wright’s God is one which can be said to be an adaptation in a well defined sense. Thus we evaluate the likelihood of different models of adaptive evolution of cultural ideas in their different levels of selection. Our result is an emphasis on the plurality of mechanisms that may lead to adaptation. By way of conclusion we assess epistemologically some of Wright’s more controversial claims concerning the directionality of evolution and moral progress."
 
 # Summary. An optional shortened abstract.
-summary: "(2011). _Philosophia_, 39(2), 397–408."
+summary: "(2011). _Philosophia_, 39(2), 397–408"
 
 #Feel free to add others
 tags:

@@ -42,10 +42,11 @@ featured: false
 # 6 = Book Section;
 # 7 = Thesis;
 # 8 = Patent;
-publication_types: [journal]
+publication_types:
+- article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: "_Nature Ecology & Evolution_, 4(3), pp. 426–436."
+publication: "_Nature Ecology & Evolution_, 4(3), pp. 426–436"
 publication_short: ""
 
 doi: "10.1038/s41559-019-1086-9"
@@ -53,7 +54,7 @@ doi: "10.1038/s41559-019-1086-9"
 abstract: "Evolutionary transitions in individuality are central to the emergence of biological complexity. Recent experiments provide glimpses of processes underpinning the transition from single cells to multicellular life and draw attention to the critical role of ecology. Here, we emphasize this ecological dimension and argue that its current absence from theoretical frameworks hampers development of general explanatory solutions. Using mechanistic mathematical models, we show how a minimal ecological structure comprising patchily distributed resources and between-patch dispersal can scaffold Darwinian-like properties on collectives of cells. This scaffolding causes cells to participate directly in the process of evolution by natural selection as if they were members of multicellular collectives, with collectives participating in a death-birth process arising from the interplay between the timing of dispersal events and the rate of resource use by cells. When this timescale is sufficiently long and new collectives are founded by single cells, collectives experience conditions that favour evolution of a reproductive division of labour. Together our simple model makes explicit key events in the major evolutionary transition to multicellularity. It also makes predictions concerning the life history of certain pathogens and serves as an ecological recipe for experimental realization of evolutionary transitions."
 
 # Summary. An optional shortened abstract.
-summary: "(2020). _Nature Ecology & Evolution_, 4(3), pp. 426–436."
+summary: "(2020). _Nature Ecology & Evolution_, 4(3), pp. 426–436"
 
 #Feel free to add others
 tags:

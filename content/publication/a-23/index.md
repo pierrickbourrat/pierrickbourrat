@@ -41,10 +41,11 @@ featured: false
 # 6 = Book Section;
 # 7 = Thesis;
 # 8 = Patent;
-publication_types: [journal]
+publication_types:
+- article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: "_International Studies in the Philosophy of Science_, 32(1), pp. 13–31."
+publication: "_International Studies in the Philosophy of Science_, 32(1), pp. 13–31"
 publication_short: ""
 
 doi: "10.1080/02698595.2019.1623485"
@@ -52,7 +53,7 @@ doi: "10.1080/02698595.2019.1623485"
 abstract: "In Darwinian Population and Natural Selection, Peter Godfrey-Smith brought the topic of natural selection back to the forefront of philosophy of biology, highlighting different issues surrounding this concept. One such issue is whether the perfect transmission of characters from parent(s) to offspring is necessary for evolution by natural selection (ENS). Drawing on the classical summaries for ENS, Godfrey-Smith’s answer is that it is not, and opposes his view to the replicator framework. In this paper, I show that GodfreySmith’s approach to ENS is only one of two legitimate perspective on ENS. One focuses on natural selection in the context of other evolutionary processes, while the other assumes their absence. After having presented these two perspectives, which I call the ‘contextual’ and the ‘pure’ perspective respectively, I draw on a framework which conceptualises the difference between natural selection, drift, and mutation in a causal rather than statistical fashion developed elsewhere. From there, I show that following the pure rather than the contextual perspective, perfect inheritance of characters is a necessary condition for ENS. This is because, I argue, imperfect inheritance is inevitably associated with an evolutionary process conceptually distinct from natural selection, namely mutation. I conclude by proposing that the classical summaries for ENS correspond more to the contextual perspective and the replicator framework more to the pure perspective."
 
 # Summary. An optional shortened abstract.
-summary: "(2019). _International Studies in the Philosophy of Science_, 32(1), pp. 13–31."
+summary: "(2019). _International Studies in the Philosophy of Science_, 32(1), pp. 13–31"
 
 #Feel free to add others
 tags:

@@ -41,10 +41,11 @@ featured: false
 # 6 = Book Section;
 # 7 = Thesis;
 # 8 = Patent;
-publication_types: [journal]
+publication_types:
+- article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: "_European Journal for Philosophy of Science_, 9(1), 11."
+publication: "_European Journal for Philosophy of Science_, 9(1), 11"
 publication_short: ""
 
 doi: "10.1007/s13194-018-0224-6"
@@ -52,7 +53,7 @@ doi: "10.1007/s13194-018-0224-6"
 abstract: "The interventionist account provides us with several notions permitting the qualification of causal relationships. In recent years, there has been a push toward formalizing these notions using information theory. In this paper, I discuss one of them, namely causal specificity. The notion of causal specificity is ambiguous as it can refer to at least two different concepts. After having presented these, I show that current attempts to formalize causal specificity in information theoretic terms have mostly focused on one of these two concepts. I then propose and apply a new information-theoretic measure which captures the other concept."
 
 # Summary. An optional shortened abstract.
-summary: "(2019). _European Journal for Philosophy of Science_, 9(1), 11."
+summary: "(2019). _European Journal for Philosophy of Science_, 9(1), 11"
 
 #Feel free to add others
 tags:
