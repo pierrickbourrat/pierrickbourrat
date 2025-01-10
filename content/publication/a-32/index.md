@@ -9,11 +9,6 @@ authors:
 
 
 # Options for author note such as "contributed equally" in the example below, assuming they are three authors, the third author is corresponding author.
-
-author_notes:
- - 
- - 
- - 
  
 date: 2021-03-01T08:32:19+10:00
 
