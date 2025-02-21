@@ -2,10 +2,24 @@
 title: Publications
 cms_exclude: true
 
-# View.
-view: Compact
+# Page type and layout
+type: landing
+sections:
+  - block: collection
+    content:
+      title: ""  # Empty to avoid duplicate title (page title is enough)
+      text: ""   # Optional intro text if desired
+      filters:
+        folders:
+          - publication  # Source folder for publication content
+    design:
+      view: citation  # Compact view for a clean list
+      columns: "1"   # Single column layout
+      sort_by: "Date"  # Sort by publication date
+      sort_ascending: false  # Reverse order (newest first)
+      disable_individual_pages: true  # Prevents individual pages
 
-# Optional header image (relative to `static/media/` folder).
+# Optional banner
 banner:
   caption: ''
   image: ''
