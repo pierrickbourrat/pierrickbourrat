@@ -12,6 +12,7 @@ sections:
       filters:
         folders:
           - publication  # Source folder for publication content
+      count: 0   # Show all items (no pagination limit)
     design:
       view: citation  # Compact view for a clean list
       columns: "1"   # Single column layout
