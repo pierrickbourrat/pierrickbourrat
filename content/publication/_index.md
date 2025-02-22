@@ -7,12 +7,12 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: "Publications"
+      text: "<div style='font-size: 2.5rem; margin-bottom: 0.5rem; font-weight: bold; text-align: center;'>Publications</div>"
     design:
       columns: "1"
       spacing:
         padding: ["20px", "0", "0", "0"]  # Reduce bottom padding
-      css_class: "pub-title"  # Custom class for styling
+      #css_class: "pub-title"  # Custom class for styling
   - block: collection
     content:
       title: ""  # Empty to avoid duplicate title (page title is enough)
