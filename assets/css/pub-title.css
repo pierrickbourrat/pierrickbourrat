@@ -1,13 +1,12 @@
-/* Style the Publications title */
-.pub-title h1,
-.pub-title h2 {
-  font-size: 2.5rem !important;  /* Force larger size */
-  font-weight: bold;
-  margin-bottom: 0.5rem;  /* Tighten space below */
-}
-
-/* Reduce section spacing globally if needed */
-.section {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-}
+.pub-title > div {
+    font-size: 2.5rem !important;  /* ~40px, override text-3xl */
+    font-weight: bold;
+    margin-bottom: 0.5rem !important;  /* ~8px, override mb-6 */
+    line-height: 1.2;
+  }
+  
+  /* Ensure section spacing is tight */
+  .section {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+  }
