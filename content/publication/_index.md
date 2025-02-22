@@ -5,6 +5,12 @@ cms_exclude: true
 # Page type and layout
 type: landing
 sections:
+  - block: markdown
+    content:
+      title: "Publications"
+    design:
+      columns: "1"
+      view: headline  # Optional: Makes it a prominent heading
   - block: collection
     content:
       title: ""  # Empty to avoid duplicate title (page title is enough)
