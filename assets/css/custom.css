@@ -1,12 +1,11 @@
-.pub-title > div {
-    font-size: 2.5rem !important;  /* ~40px, override text-3xl */
-    font-weight: bold;
-    margin-bottom: 0.5rem !important;  /* ~8px, override mb-6 */
-    line-height: 1.2;
-  }
-  
-  /* Ensure section spacing is tight */
-  .section {
-    padding-top: 1rem;
-    padding-bottom: 1rem;
-  }
+.pub-title .mb-6 {
+  font-size: 2.5rem !important;  /* ~40px */
+  margin-bottom: 0.5rem !important;  /* ~8px */
+  font-weight: bold;
+  line-height: 1.2;
+}
+
+/* Optional: Adjust container spacing */
+.pub-title .flex {
+  gap: 1rem;  /* Reduce gap-3 (~12px) if needed */
+}
