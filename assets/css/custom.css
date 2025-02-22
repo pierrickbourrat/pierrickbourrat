@@ -1,11 +1,6 @@
-.pub-title .mb-6 {
-  font-size: 2.5rem !important;  /* ~40px */
-  margin-bottom: 0.5rem !important;  /* ~8px */
+section.pub-title .flex .mb-6 {
+  font-size: 2.5rem !important;
+  margin-bottom: 0.5rem !important;
   font-weight: bold;
   line-height: 1.2;
-}
-
-/* Optional: Adjust container spacing */
-.pub-title .flex {
-  gap: 1rem;  /* Reduce gap-3 (~12px) if needed */
 }
