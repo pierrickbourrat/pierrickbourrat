@@ -6,8 +6,8 @@ section.pub-title .flex .mb-6 {
 }
 /* Target only the collection section after pub-title on publications page */
 section.pub-title + section#section-collection .mt-16 {
-  margin-top: 0.3rem !important;  /* ~8px */
+  margin-top: 0.0rem !important;  /* ~8px */
 }
 section.pub-title + section#section-collection .sm\:mt-20 {
-  margin-top: 0.3rem !important;  /* Override responsive variant */
+  margin-top: 0.0rem !important;  /* Override responsive variant */
 }
