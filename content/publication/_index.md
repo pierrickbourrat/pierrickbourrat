@@ -10,7 +10,9 @@ sections:
       title: "Publications"
     design:
       columns: "1"
-      view: headline  # Optional: Makes it a prominent heading
+      spacing:
+        padding: ["20px", "0", "0", "0"]  # Reduce bottom padding
+      css_class: "pub-title"  # Custom class for styling
   - block: collection
     content:
       title: ""  # Empty to avoid duplicate title (page title is enough)
