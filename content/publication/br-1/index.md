@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 # to have my name highlighted in publication use "admin" for author instead of Pierrick Bourrat
 
-title: "Review of 'Evolution by Natural Selection: Confidence, Evidence and the Gap,' by Michaelis Michael"
+title: "Review of _Evolution by Natural Selection: Confidence, Evidence and the Gap_, by Michaelis Michael"
 authors:
 - admin
 - 

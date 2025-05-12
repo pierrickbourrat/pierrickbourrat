@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 # to have my name highlighted in publication use "admin" for author instead of Pierrick Bourrat
 
-title: "Review of _Inheritance Systems and the Extended Evolutionary Synthesis_, by Eva Jablonka and Marion Lamb"
+title: "Review of _Biological Individuality. Cambridge Elements in the Philosophy of Biology_ by Alison K. McConwell"
 authors:
 - admin
 - 
@@ -15,10 +15,10 @@ author_notes:
  - 
  - 
  
-date: 2021-11-13T08:32:19+10:00
+date: 2024
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2022-05-30T23:28:48+10:00
+publishDate: 2024-12-30T23:28:48+10:00
 
 # Optional date to print, e.g. "forthcoming" or "preprint"
 #date_print: "in press"
@@ -46,7 +46,7 @@ featured: false
 publication_types: [book_review]
 
 # Publication name and optional abbreviated publication name.
-publication: "_BSPS_"
+publication: "_The Quarterly Review of Biology_, 99(4), p. 233"
 publication_short: ""
 
 doi: ""
@@ -54,7 +54,7 @@ doi: ""
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "(2021). _BSPS_"
+#summary: "(2021). _BSPS_"
 
 #Feel free to add others
 tags:
@@ -65,11 +65,6 @@ categories: []
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-links:
- - name: Link
-   url: https://www.thebsps.org/reviewofbooks/bourrat-on-jablonka-and-lamb/
-   icon_pack: fas
-   icon: link
 
 
 
