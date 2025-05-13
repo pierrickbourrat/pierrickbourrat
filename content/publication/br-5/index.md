@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 # to have my name highlighted in publication use "admin" for author instead of Pierrick Bourrat
 
-title: "Review of _Philosophy, History and Biology: Essays in Honour of Jean Gayon_ edited by  P.-O. Méthot."
+title: "Review of 'Philosophy, History and Biology: Essays in Honour of Jean Gayon,' edited by  P.-O. Méthot."
 authors:
 - admin
 - 

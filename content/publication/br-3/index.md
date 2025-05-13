@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 # to have my name highlighted in publication use "admin" for author instead of Pierrick Bourrat
 
-title: "Review of _Inheritance Systems and the Extended Evolutionary Synthesis_, by Eva Jablonka and Marion Lamb"
+title: "Review of 'Inheritance Systems and the Extended Evolutionary Synthesis,' by Eva Jablonka and Marion Lamb"
 authors:
 - admin
 - 

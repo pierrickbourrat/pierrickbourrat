@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 # to have my name highlighted in publication use "admin" for author instead of Pierrick Bourrat
 
-title: "Review of _Biological Individuality. Cambridge Elements in the Philosophy of Biology_ by Alison K. McConwell"
+title: "Review of 'Biological Individuality. Cambridge Elements in the Philosophy of Biology,' by Alison K. McConwell"
 authors:
 - admin
 - 

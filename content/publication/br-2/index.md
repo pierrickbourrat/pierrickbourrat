@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 # to have my name highlighted in publication use "admin" for author instead of Pierrick Bourrat
 
-title: "Review of _Biological Individuality: Integrating Scientific, Philosophical, and Historical Perspectives_, by Scott Lidgard and Lynn Nyhart"
+title: "Review of 'Biological Individuality: Integrating Scientific, Philosophical, and Historical Perspectives,' by Scott Lidgard and Lynn Nyhart"
 authors:
 - admin
 - 
