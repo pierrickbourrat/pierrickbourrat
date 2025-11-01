@@ -7,11 +7,11 @@ author_notes:
  - 
  - "corresponding author"
  
-date: '2024-04-01'
+date: '2025-04-01'
 publishDate: '2024-08-03T14:07:44.889572Z'
 publication_types:
 - article-journal
-publication: '_Review of Philosophy and Psychology_'
+publication: '_Review of Philosophy and Psychology_, 16(2), pp. 725-743'
 doi: 10.1007/s13164-024-00733-0
 abstract: Philosophers have proposed many accounts of biological function. A coarse-grained
   distinction can be made between backward-looking views, which emphasise historical

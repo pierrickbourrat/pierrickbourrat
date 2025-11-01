@@ -1,33 +1,33 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/ 
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
 # to have my name highlighted in publication use "admin" for author instead of Pierrick Bourrat
 
-title: "Moving past conventionalism about multilevel selection"
-authors:  
- - admin
+title: "In what sense can there be conflict between the levels of selection?"
+authors:
+- admin
 
 
 # Options for author note such as "contributed equally" in the example below, assuming they are three authors, the third author is corresponding author.
 
-# author_notes:
-# - 
-# - 
-# - "Corresponding author"
+author_notes:
+ - 
+ - 
+ - 
  
-date: 2024-12-07T14:50:54+11:00
+date: 2025-11-001T08:32:19+10:00
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2025-10-10T23:28:48+10:00
+publishDate: 2022-05-30T23:28:48+10:00
 
-# Optional date to print, e.g. "forthcoming" or "preprint"
-#date_print: "2025"
+ Optional date to print, e.g. "forthcoming" or "preprint"
+date_print: "in press"
 
 featured: false
 
 
 # Options for drafts
 # draft_paper: true
-# lastmod: 2023-02-16T14:50:54+11:00
+# lastmod: 2022-06-01T08:32:19+10:00
 # draft: true
 
 # Publication type.
@@ -37,48 +37,35 @@ featured: false
 # 3 = Preprint;
 # 4 = Report;
 # 5 = Book;
-# 6 = Book chapter;
+# 6 = Book Section;
 # 7 = Thesis;
 # 8 = Patent;
-# 9 = Book review;
-# 10 = Encyclopedia article;
-# 11 = Comment;
-publication_types:
-- article-journal
+publication_types: [book_section]
 
 # Publication name and optional abbreviated publication name.
-publication: " _Erkenntnis_, 90, pp. 1363-1376"
+publication: "In  Ågren, J. Arvid and Patten, Manus M. (Eds.), _The Paradox of the Organism: Adaptation and Internal Conflict_, Harvard University Press (pp. 32-52)"
 publication_short: ""
 
-doi: "10.1007/s10670-023-00749-5"
+doi: ""
 
-abstract: "The formalism used to describe evolutionary change in a multilevel setting can be used equally to re-describe the situation as one where all the selection occurs at the individual level. Thus, whether multilevel or individual-level selection occurs seems to be a matter of convention rather than fact. Yet, group selection is regarded by some as an important concept with factual rather than conventional elements. I flesh out an alternative position that regards groups as a target of selection in a way that is not merely definitional fiat and provide a theoretical basis for this position."
+abstract: ""
 
 # Summary. An optional shortened abstract.
-#summary: "(forthcoming). _Erkenntnis_"
 
 #Feel free to add others
 tags:
-- Natural Selection
-#- Gaia
-# Adaptation
-#- Price equation
-- Multilevel Selection
-#- Evolutionary Transitions in Individuality
-# Fitness
-#- Heritability
-#- Causation
+- 
 
 categories: []
 
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+  - name: Preprint
+    url: https://www.biorxiv.org/content/10.1101/2020.10.23.352948v3
+    icon_pack: ai
+    icon: biorxiv
 
 
 
@@ -101,7 +88,7 @@ url_video:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [conceptualisation, individuality]
+projects: [individuality]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -110,3 +97,4 @@ projects: [conceptualisation, individuality]
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
